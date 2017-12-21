@@ -18,7 +18,7 @@ The particular shape or geometry about an atom is based on the number of groups,
 
 [ciscode|rev=1|tool=elmsmedia|item=3473|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
-There are three key concepts of VSEPR theory.  The first is that electron domains want to be as far from other domains as possible to minimize electron-electron repulsion.  This leads to five basic shapes or electron domain geometries related to the steric number.
+A central premise of VSEPR theory is that electron domains want to be as far from other domains as possible to minimize electron-electron repulsion (hence the name!).  In organic, we will only need to consider three basic shapes or electron domain geometries related to the steric number.
 
 | Steric Number | Electron Domain Geometry (EDG) | Bond angles ($$^{\circ}$$) |
 | :--- | :--- | :--- |
