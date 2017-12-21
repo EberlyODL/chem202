@@ -7,9 +7,9 @@
   * [Bond Polarity and Electronegativity](bond-polarity-and-electronegativity.md)
   * [Formal Charge](formal-charge.md)
   * [Drawing Lewis Structures](drawing-lewis-structures.md)
-  * VSEPR Theory
-  * Valence Bond Theory
-  * Hybridization
+  * [Exceptions to the Octet Rule](exceptions-to-the-octet-rule.md)
+  * [VSEPR Theory](vsepr-theory.md)
+  * [Valence Bond Theory](valence-bond-theory.md)
 * [Week 1](chapter1.md)
   * PLA Lecture 2
   * PLA Lecture 3
