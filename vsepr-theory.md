@@ -14,7 +14,7 @@ The particular shape or geometry about an atom is based on the number of groups,
 
 
 
-# Key Concepts of VSEPR
+# Key Concept of VSEPR
 
 [ciscode|rev=1|tool=elmsmedia|item=3473|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
