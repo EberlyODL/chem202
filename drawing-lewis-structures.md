@@ -4,9 +4,9 @@
 # Lewis Structures
 
 
-Select the best Lewis structure from multiple possibilities based on formal charges. 
-Draw resonance structures and calculate fractional bond order.
-Define the following terms: Formal charge, Lewis structure, resonance, bond order.
+- Select the best Lewis structure from multiple possibilities based on formal charges. 
+- Draw resonance structures and calculate fractional bond order.
+- Define the following terms: Formal charge, Lewis structure, resonance, bond order.
 
 When atoms combine to form compounds, they follow the [rules of valence](https://genchem.science.psu.edu/rules-valence).  The valence of an atom is the number of covalent bonds that it prefers to form with other atoms.  There are many exceptions, but this can be a useful place to start.
 

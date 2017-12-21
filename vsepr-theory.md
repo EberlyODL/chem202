@@ -14,7 +14,7 @@ The particular shape or geometry about an atom is based on the number of groups,
 
 
 
-# Key Concept of VSEPR
+## Key Concepts of VSEPR
 
 [ciscode|rev=1|tool=elmsmedia|item=3473|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
@@ -27,7 +27,6 @@ A central premise of VSEPR theory is that electron domains want to be as far fro
 | 4 | Tetrahedral | 109.5 |
 
 
-REMOVE THE CONTENT BELOW
 
 <div class="spacer" style="display:block;overflow:hidden;width:100%;"></div>
 
