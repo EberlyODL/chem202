@@ -9,7 +9,8 @@
   * [Drawing Lewis Structures](drawing-lewis-structures.md)
   * [Exceptions to the Octet Rule](exceptions-to-the-octet-rule.md)
   * [VSEPR Theory](vsepr-theory.md)
-  * [Valence Bond Theory](valence-bond-theory.md)
+  * [Molecular Geometry](molecular-geometry.md)
+  * Molecular Geometry
 * [Week 1](chapter1.md)
   * PLA Lecture 2
   * PLA Lecture 3
