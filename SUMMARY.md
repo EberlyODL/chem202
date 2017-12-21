@@ -1,6 +1,7 @@
 # Summary
 
 * [Organic Foundations](README.md)
+  * [Orbitals](orbitals.md)
   * [Introduction to Bonding](introduction-to-bonding.md)
   * [Ionic Compounds](ionic-compounds.md)
   * [Covalent Bonding](covalent-bonding.md)
