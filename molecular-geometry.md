@@ -1,5 +1,4 @@
-<div style="float:right;margin:auto"><ebook-button title="Molecular Geometry" link="https://genchem.science.psu.edu/08-3-molecular-shapes
-"></ebook-button></div>
+<div style="float:right;margin:auto"><ebook-button title="Molecular Geometry" link="https://genchem.science.psu.edu/08-3-molecular-shapes"></ebook-button></div>
 
 
 # Molecular Geometry
