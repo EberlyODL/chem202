@@ -7,7 +7,9 @@ An orbital is a region of space that can be occupied by electron density. In thi
 
 ## Orbital Characteristics
 
-There are two basic shapes of orbitals that we will need to 
+There are two basic shapes of orbitals that we will need to be familiar with.  They are a sphere and a dumbbell that correspond to the s and p orbitals, respectively.
+
+[insert images]
 
 Aside from the shapes and sizes of orbitals, let's explore some further details of orbitals! 
 
