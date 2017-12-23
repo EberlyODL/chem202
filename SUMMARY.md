@@ -7,7 +7,7 @@
     * [Ionic Compounds](ionic-compounds.md)
     * [Covalent Bonding](covalent-bonding.md)
     * [Bond Polarity and Electronegativity](bond-polarity-and-electronegativity.md)
-  * Structure
+  * Drawing Structures
     * [Formal Charge](formal-charge.md)
     * [Drawing Lewis Structures](drawing-lewis-structures.md)
     * [Exceptions to the Octet Rule](exceptions-to-the-octet-rule.md)
