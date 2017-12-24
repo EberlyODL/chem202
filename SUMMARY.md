@@ -7,6 +7,7 @@
     * [Ionic Compounds](ionic-compounds.md)
     * [Covalent Bonding](covalent-bonding.md)
     * [Bond Polarity and Electronegativity](bond-polarity-and-electronegativity.md)
+    * [Valence Bond Theory](valence-bond-theory.md)
   * Drawing Structures
     * [Formal Charge](formal-charge.md)
     * [Drawing Lewis Structures](drawing-lewis-structures.md)
@@ -15,7 +16,6 @@
   * Molecular Shape
     * [VSEPR Theory](vsepr-theory.md)
     * [Molecular Geometry](molecular-geometry.md)
-  * [Valence Bond Theory](valence-bond-theory.md)
 * [Week 1](chapter1.md)
   * [PLA Lecture 1](chapter1/pla-lecture-1.md)
   * [PLA Lecture 2](chapter1/pla-lecture-2.md)
