@@ -29,4 +29,6 @@ There are 4 core content areas from general or introductory chemistry that are i
     - Molecular polarity
 
 
-At the end of each content area, you will find a link to a canvas problem set.  You can attempt this problem set as many times as you like.  Only the highest score will be recorded.  Your score on these 4 practice sets will account for 20 points of your Foundations score.  The remaining 20 points will come from a 30-minute quiz on January 22 in class.
+There are links embedded throughout the review to the CHEM 110 ebook, so if you purchased that, you will be able to use those as a resource if you wish.  Any other Introductory or General Chemistry text can serve as a reference for this material if you do not have access.  Another good resource may be this free ebook _[Preparation for Organic Chemistry](https://bit.ly/prepbook)_ by David Reingold.
+  
+At the end of each content area, you will find a link back to canvas asking you to complete a problem set.  You can attempt this problem set as many times as you like.  Only the highest score will be recorded.  Your score on these 4 practice sets will account for 20 points of your Foundations score.  The remaining 20 points will come from a 30-minute quiz on January 22 in class.

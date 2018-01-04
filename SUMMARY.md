@@ -4,7 +4,7 @@
   * [Atomic Structure](atomic-structure.md)
     * [Orbitals](orbitals.md)
     * [Electron Configuration](electron-configuration.md)
-  * Chemical Bonds
+  * [Chemical Bonds](chemical-bonds.md)
     * [Introduction to Bonding](introduction-to-bonding.md)
     * [Ionic Compounds](ionic-compounds.md)
     * [Covalent Bonding](covalent-bonding.md)
