@@ -16,6 +16,7 @@
   * Molecular Shape
     * [VSEPR Theory](vsepr-theory.md)
     * [Molecular Geometry](molecular-geometry.md)
+    * [Molecular Polarity](molecular-polarity.md)
 * [Week 1](chapter1.md)
   * [PLA Lecture 1](chapter1/pla-lecture-1.md)
   * [PLA Lecture 2](chapter1/pla-lecture-2.md)
