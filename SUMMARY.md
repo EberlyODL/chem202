@@ -1,7 +1,7 @@
 # Summary
 
 * [Organic Foundations](README.md)
-  * Atomic Structure
+  * [Atomic Structure](atomic-structure.md)
     * [Orbitals](orbitals.md)
     * [Electron Configuration](electron-configuration.md)
   * Chemical Bonds
