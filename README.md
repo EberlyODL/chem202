@@ -29,4 +29,4 @@ There are 4 core content areas from general or introductory chemistry that are i
     - Molecular polarity
 
 
-At the end of each content area, you will find a link to a canvas problem set.  You can attempt this problem set as many times as you like.  Only the highest score will be recorded.  Your score on these 4 practice sets will account for 20 points of your Foundations score.  The remaining 20 points will come from a 30-minute quiz on January 23 in class.
+At the end of each content area, you will find a link to a canvas problem set.  You can attempt this problem set as many times as you like.  Only the highest score will be recorded.  Your score on these 4 practice sets will account for 20 points of your Foundations score.  The remaining 20 points will come from a 30-minute quiz on January 22 in class.
