@@ -35,3 +35,4 @@ You’ll also notice that in the figure we show p orbitals as being shaded with 
 
 [ciscode|rev=1|tool=elmsmedia|item=3504|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
 
+## You've reached the end of the second foundation.  [Return to Canvas to practice!](http://canvas.psu.edu)

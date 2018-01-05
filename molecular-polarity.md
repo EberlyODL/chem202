@@ -29,3 +29,5 @@ Figure 1 shows the example of water. If you write out the Lewis structure of wat
 For additional examples, please watch the video to the right.
 
 
+## You've reached the end of the fourth and final foundation.  [Return to Canvas to practice!](http://canvas.psu.edu)
+
