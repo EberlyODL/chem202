@@ -8,8 +8,6 @@
 
 **Learning Objectives:** _After this lesson, you should be able to…_
 
-* Determine the hybrid orbitals involved in covalent bonding using Lewis structures, VSEPR shapes, and with consideration for resonance.
-
 * Differentiate between sigma and pi bonds, and recognize the types of orbitals involved in these bonds.
 
 <div style="float:right;max-width:600px;margin:auto">[ciscode|rev=1|tool=elmsmedia|item=3515|entity_type=node|render=display_mode|display_mode=image__right]</div>
