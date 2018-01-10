@@ -17,6 +17,14 @@ In the upcoming lecture we will explore the structural and chemical properties o
 
 Applying the rules of arrow pushing so that they become second nature requires practice. Below are examples of mechanisms that are described by individual arrows. A few things worth pointing out are that the lone pair/bond moving is colored red in each example, and there is a separation of charge in either the reactants or products in each example.
 
+A. An arrow pointing from a single bond to an atom means that the bond breaks and a lone pair forms on the target atom.
+
+B. An arrow pointing from a lone pair to an atom means that the lone pair electrons form a new bond to the target atom.
+
+C. An arrow pointing from a double or triple bond to an atom means that _one_ of the bonds breaks, and those electrons form a new lone pair on the target atom.
+
+D. An arrow pointing from a lone pair to a bond means the lone pair electrons are used to increase the bond order of the target bond (e.g. a single bond becomes a double bond or a double bond becomes a triple bond).
+
 
 
 
