@@ -31,6 +31,6 @@ In contrast to sigma bonds, pi bonds feature two regions of overlap, and they re
 You’ll also notice that in the figure we show p orbitals as being shaded with two different colors. These colors represent the sign of the orbital’s wave function in that region of space. Bonding can only take place when orbital regions with the same wave function sign overlap.
 
 
-[ciscode|rev=1|tool=elmsmedia|item=3504|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
+[ciscode|rev=1|tool=elmsmedia|item=3504|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 ## You've reached the end of the second foundation.  [Return to Canvas to practice!](http://canvas.psu.edu)

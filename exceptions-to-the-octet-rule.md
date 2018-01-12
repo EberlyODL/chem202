@@ -13,7 +13,7 @@ The reactivity patterns of boron trifluoride are consistent with this bonding ar
 
 The most common exceptions to the octet rule involve compounds in which an atom has more than eight electrons (it exceeds an octet). These atoms are also called hypervalent, and this is sometimes referred to as octet as expansion. Octet expansion only occurs for atoms in periods 3 and beyond on the periodic table (period 2 elements cannot undergo octet expansion). When octet expansion occurs, the central atom is often bonded to numerous small, electronegative atoms (like O, Cl, or F). 
 
-[ciscode|rev=1|tool=elmsmedia|item=3425|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
+[ciscode|rev=1|tool=elmsmedia|item=3425|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 
 ## Try it!

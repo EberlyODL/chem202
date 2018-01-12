@@ -16,4 +16,4 @@ As we will see in the following sections, there are two types of bonds: ionic an
 For a recap of identifying valence electrons in an atom and an overview of drawing Lewis structures of main group elements, check out the video below!  (Note: You do not need to be able to draw Lewis dot structures for transition metals.)
 
 
-[ciscode|rev=1|tool=elmsmedia|item=3374|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
+[ciscode|rev=1|tool=elmsmedia|item=3374|entity_type=node|render=display_mode|display_mode=mediavideo]
