@@ -2,7 +2,7 @@
 
 # Hybridization
 
-Hybridization is the idea that atomic orbitals (s and p) mix to form hybrid orbitals.  This theory _explains_ some of the experimental measurements of bond lengths and angles.
+Hybridization is the idea that atomic orbitals (s and p) mix to form hybrid orbitals.  This theory _explains_ some of the experimental measurements of bond lengths and angles in molecules.
 
 The number of domains about an atom determines the type of orbitals used in forming sigma bonds or holding lone pairs (for a review of what constitutes a "domain," check out the foundations section on [electron domain geometry](/vsepr-theory.md)).  
 
