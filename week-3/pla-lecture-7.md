@@ -1,0 +1,29 @@
+# Hydrocarbons
+
+
+Organic molecules are enormously diverse, owing to the fact that carbon forms strong, stable bonds to other carbon atoms and to other atoms like hydrogen, oxygen, nitrogen, sulfur, and the halogens. Carbon also forms four bonds simultaneously, which allows for complex, branched molecules. Carbon is also capable of forming bonds with higher bond orders, adding even more diversity to the organic molecules that exist. 
+
+Hydrocarbons are a class of compounds that contain only carbon and hydrogen.  This large family of compounds is further broken down into subcategories:
+
+1) Alkanes
+    - Contain C-C single bonds with a general molecular formula of $$C_nH_{2n+2}$$
+
+2) Cycloalkanes
+    - Contain C-C single bonds in a ring with a general molecular formula of $$C_nH_{2n}$$
+
+
+3) Alkenes
+    - Contain C-C double bonds with a general molecular formula of $$C_nH_{2n}$$
+
+
+4) Alkynes
+    - Contain C-C triple bonds with a general molecular formula of $$C_nH_{2n-2}$$
+
+
+
+5) Aromatic
+    - Contain alternating single C-C double bonds with a general molecular formula of $$C_nH_{2n}$$
+
+
+
+
