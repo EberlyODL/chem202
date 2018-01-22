@@ -22,7 +22,11 @@ Hydrocarbons are a class of compounds that contain only carbon and hydrogen.  Th
 
 
 5) Aromatic
-    - Contain alternating single C-C double bonds with a general molecular formula of $$C_nH_{2n}$$
+    - Contain alternating single-double-single-double bonds in a ring
+
+
+
+
 
 
 
