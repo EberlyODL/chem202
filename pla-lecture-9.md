@@ -12,16 +12,17 @@ You should be able to draw resonance contributors for a variety of organic compo
 [ciscode|rev=1|tool=elmsmedia|item=3472|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
 
-When two or more resonance structures exist, then it is necessary to evaluate their relative contribution to the hybrid.  When ranking resonance contributors, consider the following in order:
+When two or more resonance structures exist, then it is necessary to evaluate their relative contribution to the hybrid.  When ranking resonance contributors, consider the following **in order**:
 
-> 1) The octet is satisfied
+> 1) Is the octet is satisfied?  This is the most important factor to stability and is more important than charge.
 
-> 2) Formal charge is minimized
+> 2) Is formal charge is minimized? 
 
 > 3) Electronegative atoms have negative charge and electropositive atoms have positive charge.
 
 
 If there is no way to differentiate the two structures, they are equivalent.
+
 
 
 ## Resonance is delocalized pi bonding
