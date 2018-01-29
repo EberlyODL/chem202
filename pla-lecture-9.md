@@ -44,5 +44,7 @@ So, why is this system an exception to several of the above mentioned theories? 
 
 The take home message: be on the lookout for those 4 patterns of resonance! If electrons on an atom are delocalized (involved in resonance), they will be in a p orbital. That means the atom must be $$sp^2&& or sp hybridized.
 
+_For additional reading and practice check out pages 214-225 and problems 1-6 in the textbook as well as the resonance tutorial at the back of Chapter 7 (p. 255-260)._
+
 
 ## Return to Canvas to answer a few questions!
