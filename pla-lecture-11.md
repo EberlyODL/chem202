@@ -1,5 +1,3 @@
 # Newman Projections
 
-Carbon-carbon single bonds can freely rotate.  This results in an infinite number of conformations or "stops" as you rotate the bond.
-
-We are most concerned with 
+Carbon-carbon single bonds can freely rotate.  This results in an infinite number of conformations or "stops" as you rotate the bond.  We are most concerned with the highest and lowest energy conformations.  We can represent the 3D structures with Newman projections to show how 
