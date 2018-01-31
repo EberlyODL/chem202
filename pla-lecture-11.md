@@ -5,4 +5,5 @@ Carbon-carbon single bonds can freely rotate.  This results in an infinite numbe
 Build a model of ethane and follow along with the video embedded below.  Then, head back to canvas to answer a few questions about interpreting Newman projections.  You will use your model kit for the question set.  After some practice with the model kit, you will get more comfortable seeing these in three dimensions!
 
 
+[ciscode|rev=1|tool=elmsmedia|item=4201|entity_type=node|render=display_mode|display_mode=mediavideo]
 
