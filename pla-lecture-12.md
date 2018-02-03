@@ -7,6 +7,12 @@
 * Identify axial and equitorial bonds
 
 
+[ciscode|rev=1|tool=elmsmedia|item=4207|entity_type=node|render=display_mode|display_mode=image__right__lightboxed]
+
+[ciscode|rev=1|tool=elmsmedia|item=4206|entity_type=node|render=display_mode|display_mode=image__right]
+
+[ciscode|rev=1|tool=elmsmedia|item=4208|entity_type=node|render=display_mode|display_mode=image__right__circle__lightboxed]
+
 So far, we have drawn cyclohexane as a polygon in two dimensions.  Now, we are going to explore its three-dimensional structure.
 
 The most stable conformation of a cyclohexane ring is known as a "chair" conformation (Figure 1).  It gets its name because it resembles a lounge chair (Figure 2).  You are encouraged to build a model like that in Figure 3 so you can see it for yourself.
