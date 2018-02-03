@@ -11,6 +11,6 @@ So far, we have drawn cyclohexane as a polygon in two dimensions.  Now, we are g
 
 The most stable conformation of a cyclohexane ring is known as a "chair" conformation.  It gets its name because it resembles a lounge chair.  You are encouraged to build a model like that in Figure 2 so you can see it for yourself.
 
-In the video below, you are talked through the procedure for drawing two different chair conformations and defining axial and equitorial bonds.
+In the video below, you are talked through the procedure for drawing the two different chair conformations and axial and equitorial bonds are defined.  Get out your pencil and paper and practice drawing these figures! :)
 
 [ciscode|rev=1|tool=elmsmedia|item=4205|entity_type=node|render=display_mode|display_mode=mediavideo]
