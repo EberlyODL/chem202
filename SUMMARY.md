@@ -36,5 +36,5 @@
 * Week 5
   * [PLA Lecture 12](pla-lecture-12.md)
   * [PLA Lecture 13](pla-lecture-13.md)
-  * PLA Lecture 14
+  * [PLA Lecture 14](pla-lecture-14.md)
 
