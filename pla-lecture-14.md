@@ -10,7 +10,7 @@ When looking for chiral centers, look for tetrahedral carbon atoms that are atta
 
 [ciscode|rev=1|tool=elmsmedia|item=4211|entity_type=node|render=display_mode|display_mode=image__right__lightboxed]
 
-Let’s look at an example of a molecule that is not chiral. The hypothetical molecule C is shown in Figure 2. It is attached to a red atom, a gray atom, and two green atoms; it is therefore attached to only three different substituents (two of the substituents are both green atoms). When we reflect molecule C across the dotted line we produce its mirror image, molecule D. Build a model of these two and try to superimpose them. You should be able to! Molecule C is **achiral** (not chiral) because it can be superimposed with its mirror image.
+Let’s look at an example of a molecule that is not chiral. The hypothetical molecule C is shown in Figure 2. It is attached to a red atom, a gray atom, and two green atoms; it is therefore attached to only three different substituents (two of the substituents are both green atoms). When we reflect molecule C across the dotted line we produce its mirror image, molecule D. Build a model of these two and try to superimpose them. You should be able to! Molecule C is **achiral** (not chiral) because it can be superimposed with its mirror image.  Therefore, molecule C and D are the same (identical).
 
 Shown here is an example of a chiral molecule, 2-bromobutane. This molecule cannot be superimposed with its mirror image.
 
