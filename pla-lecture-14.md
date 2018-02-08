@@ -14,8 +14,11 @@ Let’s look at an example of a molecule that is not chiral. The hypothetical mo
 
 Shown in Figure 3 is an example of a chiral molecule, 2-bromobutane. This molecule cannot be superimposed with its mirror image.
 
+[ciscode|rev=1|tool=elmsmedia|item=4212|entity_type=node|render=display_mode|display_mode=image__right__lightboxed]
+
+
 Note that the chiral carbon is attached to four different substituents: a hydrogen atom, a bromine atom, a “$$CH_3$$” group, and a “$$CH_2CH_3$$" group. Even though the chiral carbon is attached to two carbons, these carbons are distinguishable from each other (“$$CH_3$$” is not the same as “$$CH_2CH_3$$”).
 
-[ciscode|rev=1|tool=elmsmedia|item=4212|entity_type=node|render=display_mode|display_mode=image__right__lightboxed]
+
 
 
