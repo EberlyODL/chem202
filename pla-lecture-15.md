@@ -14,3 +14,5 @@ The textbook covers this topic in Chapter 4.10-11 and the problems within are ex
 
 A video from the Kahn academy walks through determining relationships of a series of compounds below.
 
+
+[ciscode|rev=1|tool=elmsmedia|item=4219|entity_type=node|render=display_mode|display_mode=mediavideo]
