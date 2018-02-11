@@ -8,6 +8,9 @@ An example is shown below for 2-bromo-3-chlorobutane.  There are two chiral cent
 
 When considering relationships between compounds, the first step is to first look at their connectivity.  If they have different connectivity, they would be constitutional isomers.  If they have the same connectivity, the compounds are either identical or stereoisomers.  Identical compounds will be superimposable (bonds may need to be rotated).  There are two types of stereoisomers: enantiomers and diastereomers.  If the compounds in question are nonsuperimposable mirror images, they are enantiomers.  If they are not mirror images, they are diastereomers. 
 
-A quick way to determine stereoisomeric relationships is to determine the absolute configuration of each chiral center.  An enantiomeric pair will have the opposite configuration for every chiral center.  In figure 1 you can see that the (2R,3R) isomer is the enantiomer of the (2S,3S) isomer.  Likewise with (2R,3S) and (2S,3R).  When one or more (but not all) of the chiral centers are opposite, then the compounds are diastereomers.  (2R,3R) and (2R,3S) isomers would be diastereomers because one chiral center has the opposite configuration, but not all.
+A quick way to determine stereoisomeric relationships is to determine the absolute configuration of each chiral center.  An enantiomeric pair will have the opposite configuration for **_every_** chiral center.  In figure 1 you can see that the (2R,3R) isomer is the enantiomer of the (2S,3S) isomer.  Likewise with (2R,3S) and (2S,3R).  When **_some_** (but not all) of the chiral centers are opposite, then the compounds are diastereomers.  (2R,3R) and (2R,3S) isomers would be diastereomers because one chiral center has the opposite configuration, but not all.
 
-The textbook covers this topic in Chapter 7.
+The textbook covers this topic in Chapter 4.10-11 and the problems within are excellent practice for the PLA questions.
+
+A video from the Kahn academy walks through determining relationships of a series of compounds below.
+
