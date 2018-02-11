@@ -10,3 +10,4 @@ When considering relationships between compounds, the first step is to first loo
 
 A quick way to determine stereoisomeric relationships is to determine the absolute configuration of each chiral center.  An enantiomeric pair will have the opposite configuration for every chiral center.  In figure 1 you can see that the (2R,3R) isomer is the enantiomer of the (2S,3S) isomer.  Likewise with (2R,3S) and (2S,3R).  When one or more (but not all) of the chiral centers are opposite, then the compounds are diastereomers.  (2R,3R) and (2R,3S) isomers would be diastereomers because one chiral center has the opposite configuration, but not all.
 
+The textbook covers this topic in Chapter 7.
