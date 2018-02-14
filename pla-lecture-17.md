@@ -17,3 +17,11 @@ We will be using three basic mechanistic patterns (we will add 1-2 more as we mo
 The first pattern we have seen before.  This is known as a **proton transfer**.  A proton ($$H^+$$) is transferred from one molecule to another and is illustrated by two curved arrows.
 
 
+The second pattern is nucleophilic attack, characterized by a nucleophile attacking an electrophile.  
+
+In the example above, bromine is a nucleophile because it possesses lone pairs and the carbocation is an electrophile because of its empty p orbital.  In this example, the attack of the nucleophile requires just one arrow.  It is common to see nucleophilic attack require two arrows, as below.
+
+
+
+In this case, the first arrow shows the nucleophilic attack at the electrophile.  The second arrow shows how the electrons flow up onto the oxygen atom.  Carbon cannot have more than 4 bonds, so one of the bonds must break.  Pi bonds are weaker than sigma bonds and, therefore, are easier to break.  
+
