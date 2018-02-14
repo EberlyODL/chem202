@@ -25,5 +25,11 @@ In the example above, bromine is a nucleophile because it possesses lone pairs a
 
 In this case, the first arrow shows the nucleophilic attack at the electrophile.  The second arrow shows how the electrons flow up onto the oxygen atom.  Carbon cannot have more than 4 bonds, so one of the bonds must break.  Pi bonds are weaker than sigma bonds and, therefore, are easier to break.  It is important to note, that both of these scenarios illustrate the mechanistic pattern of nucleophilic attack.
 
-The final pattern (for now) is **loss of leaving group**.  
+The final pattern (for now) is **loss of leaving group**.  This step requires one curved arrow as shown below:
+
+We will be combining these individual mechanistic patterns in sequence to put together complete reaction mechanisms.  
+
+Head back to canvas to complete the question set to test your ability to identify nucleophiles/electrophiles and identify mechanistic steps!
+
+_For more practice, see section 5.3 in the textbook as well as the curved arrow tutorial on pages 174-178._
 
