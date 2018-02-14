@@ -40,7 +40,7 @@
 * Week 6
   * [PLA Lecture 15](pla-lecture-15.md)
   * [PLA Lecture 16](pla-lecture-16.md)
-  * PLA Lecture 17
+  * [PLA Lecture 17](pla-lecture-17.md)
 * Week 7
   * PLA Lecture 18
   * PLA Lecture 19
