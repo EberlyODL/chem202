@@ -29,7 +29,7 @@ The final pattern (for now) is **loss of leaving group**.  This step requires on
 
 We will be combining these individual mechanistic patterns in sequence to put together complete reaction mechanisms.  
 
-Head back to canvas to complete the question set to test your ability to identify nucleophiles/electrophiles and identify mechanistic steps!
+Head back to Canvas to complete the question set to test your ability to identify nucleophiles/electrophiles and identify mechanistic steps!
 
 _For more practice, see section 5.3 in the textbook as well as the curved arrow tutorial on pages 174-178._
 
