@@ -4,13 +4,14 @@
 
 All of the reactions we will study this semester will be between nucleophiles and electrophiles.  If you can determine which atom is the nucleophile and where the electrophilic site is, you will be able to predict any reaction we throw at you!
 
-Recall your definitions - a nucleophile (Lewis base) is an electron-rich atom capable of donating a pair of electrons.  An electrophile (Lewis acid) is an electron-deficient atom that is capable of accepting an electron pair.  Some common nucleophiles and electrophiles are shown in Figure 1.
+[ciscode|rev=1|tool=elmsmedia|item=4235|entity_type=node|render=display_mode|display_mode=image__right__lightboxed]
 
+Recall your definitions - a nucleophile (Lewis base) is an electron-rich atom capable of donating a pair of electrons.  An electrophile (Lewis acid) is an electron-deficient atom that is capable of accepting an electron pair.  Some common nucleophiles and electrophiles are shown in Figure 1.
 
 
 You have already seen examples in the acid base unit (see Figure 2).  Notice how the curved arrows indicate the movement of electrons.  You will always start from a lone pair or a bond and move toward the electrophile.
 
-[ciscode|rev=1|tool=elmsmedia|item=4232|entity_type=node|render=display_mode|display_mode=image__circle]
+[ciscode|rev=1|tool=elmsmedia|item=4232|entity_type=node|render=display_mode|display_mode=image__lightboxed]
 
 # Reaction Mechanisms
 
@@ -34,7 +35,7 @@ In this case, the first arrow shows the nucleophilic attack at the electrophile.
 
 The final pattern (for now) is **loss of leaving group**.  This step requires one curved arrow as shown below:
 
-[ciscode|rev=1|tool=elmsmedia|item=4234|entity_type=node|render=display_mode|display_mode=image__lightboxed]
+[ciscode|rev=1|tool=elmsmedia|item=4236|entity_type=node|render=display_mode|display_mode=image__lightboxed]
 
 We will be combining these individual mechanistic patterns in sequence to put together complete reaction mechanisms.  
 
