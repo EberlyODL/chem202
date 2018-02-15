@@ -20,6 +20,7 @@ We will be using three basic mechanistic patterns (we will add 1-2 more as we mo
 
 The first pattern we have seen before.  This is known as a **proton transfer**.  A proton ($$H^+$$) is transferred from one molecule to another and is illustrated by two curved arrows.
 
+[ciscode|rev=1|tool=elmsmedia|item=4237|entity_type=node|render=display_mode|display_mode=image__lightboxed]
 
 The second pattern is **nucleophilic attack**, characterized by a nucleophile attacking an electrophile.  
 
