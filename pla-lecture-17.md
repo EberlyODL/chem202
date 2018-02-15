@@ -15,7 +15,7 @@ You have already seen examples in the acid base unit (see below).  Notice how th
 
 # Reaction Mechanisms
 
-Reaction mechanisms are used to show how electrons are rearranging in a chemical process.  Understanding mechanism is powerful because it allows you to predict products of any organic reaction.  Mechanisms the best guess as to what is happening at the molecular level and are supported by experimental data.
+Reaction mechanisms are used to show how electrons are rearranging in a chemical process.  Understanding mechanism is powerful because it allows you to predict products of any organic reaction.  Mechanisms are the best guess as to what is happening at the molecular level and are supported by experimental data.
 
 We will be using three basic mechanistic patterns (we will add 1-2 more as we move through the course). 
 
