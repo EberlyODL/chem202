@@ -6,7 +6,11 @@ All of the reactions we will study this semester will be between nucleophiles an
 
 Recall your definitions - a nucleophile (Lewis base) is an electron-rich atom capable of donating a pair of electrons.  An electrophile (Lewis acid) is an electron-deficient atom that is capable of accepting an electron pair.  Some common nucleophiles and electrophiles are shown in Figure 1.
 
+
+
 You have already seen examples in the acid base unit (see Figure 2).  Notice how the curved arrows indicate the movement of electrons.  You will always start from a lone pair or a bond and move toward the electrophile.
+
+[ciscode|rev=1|tool=elmsmedia|item=4232|entity_type=node|render=display_mode|display_mode=image__circle]
 
 # Reaction Mechanisms
 
@@ -19,13 +23,17 @@ The first pattern we have seen before.  This is known as a **proton transfer**. 
 
 The second pattern is **nucleophilic attack**, characterized by a nucleophile attacking an electrophile.  
 
+[ciscode|rev=1|tool=elmsmedia|item=4233|entity_type=node|render=display_mode|display_mode=image__lightboxed]
+
 In the example above, bromine is a nucleophile because it possesses lone pairs and the carbocation is an electrophile because of its empty _p_ orbital.  In this example, the attack of the nucleophile requires just one arrow.  It is common to see nucleophilic attack require two arrows, as below.
 
-
+[ciscode|rev=1|tool=elmsmedia|item=4234|entity_type=node|render=display_mode|display_mode=image__lightboxed]
 
 In this case, the first arrow shows the nucleophilic attack at the electrophile.  The second arrow shows how the electrons flow up onto the oxygen atom.  Carbon cannot have more than 4 bonds, so one of the bonds must break.  Pi bonds are weaker than sigma bonds and, therefore, are easier to break.  It is important to note, that both of these scenarios illustrate the mechanistic pattern of nucleophilic attack.
 
 The final pattern (for now) is **loss of leaving group**.  This step requires one curved arrow as shown below:
+
+[ciscode|rev=1|tool=elmsmedia|item=4234|entity_type=node|render=display_mode|display_mode=image__lightboxed]
 
 We will be combining these individual mechanistic patterns in sequence to put together complete reaction mechanisms.  
 
