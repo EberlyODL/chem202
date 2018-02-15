@@ -6,10 +6,10 @@ All of the reactions we will study this semester will be between nucleophiles an
 
 [ciscode|rev=1|tool=elmsmedia|item=4235|entity_type=node|render=display_mode|display_mode=image__right__lightboxed]
 
-Recall your definitions - a nucleophile (Lewis base) is an electron-rich atom capable of donating a pair of electrons.  An electrophile (Lewis acid) is an electron-deficient atom that is capable of accepting an electron pair.  Some common nucleophiles and electrophiles are shown in Figure 1.
+Recall your definitions - a nucleophile (Lewis base) is an electron-rich atom capable of donating a pair of electrons.  An electrophile (Lewis acid) is an electron-deficient atom that is capable of accepting an electron pair.  Some common nucleophiles and electrophiles are shown in the table to the right.
 
 
-You have already seen examples in the acid base unit (see Figure 2).  Notice how the curved arrows indicate the movement of electrons.  You will always start from a lone pair or a bond and move toward the electrophile.
+You have already seen examples in the acid base unit (see below).  Notice how the curved arrows indicate the movement of electrons.  You will always start from a lone pair or a bond and move toward the electrophile.
 
 [ciscode|rev=1|tool=elmsmedia|item=4232|entity_type=node|render=display_mode|display_mode=image__lightboxed]
 
