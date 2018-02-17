@@ -43,7 +43,7 @@
   * [PLA Lecture 17](pla-lecture-17.md)
 * Week 7
   * [PLA Lecture 18](pla-lecture-18.md)
-  * PLA Lecture 19
+  * [PLA Lecture 19](pla-lecture-19.md)
   * PLA Lecture 20
 * Week 8
   * PLA Lecture 21
