@@ -4,6 +4,6 @@ We have been talking about alcohols as functional groups for a while now.  We ar
 
 Alcohols have priority over the other functional groups we have named so far (e.g. alkenes, alkynes, halides).  This means, that the alcohol group will get the lowest number on the parent chain.  The name of alcohols will end in "-ol."
 
-Check out the video below for some examples.  (This video also has some good review of stereochemistry!)  Head to canvas to practice with a few questions.
+Check out the video below for some examples.  (This video also has some good review of stereochemistry!)  Practice with problems in Section 9.1 of the text.  Head to canvas to practice with a few questions.
 
 [ciscode|rev=1|tool=elmsmedia|item=4250|entity_type=node|render=display_mode|display_mode=mediavideo]  
