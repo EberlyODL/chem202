@@ -6,7 +6,7 @@ Usually, the major product of an elimination reaction is the more stable alkene.
 
 The stability of alkenes increases as the number of alkyl substituents increases. This conclusion is made by interpreting data collected from heats of hydrogenation. (See section 5.6 of the text for more details. However, know that we will not focus on how this data was obtained.)  The order of stability can be explained with **hyperconjugation**.  Sigma bonds next door to the double bond can donate electron density to the more electronegative $$sp^2$$ hybridized atom. (Connect this to the difference in acidity for alkane, alkene, and alkyne C-H bonds.)  Donating to more electronegative atoms is stabilizing!  
 
-To differentiate the disubstituted alkenes, we must consider other factors.  Cis alkenes are less stable than trans alkenes which have a similar stability to alkenes where both substituents are on the same carbon of the double bond.  Steric effects come in to play when the substituent groups are on the same side of the alkene - they are bumping into each other!
+To differentiate the stability of disubstituted alkenes, we must consider other factors.  Cis alkenes are less stable than trans alkenes which have a similar stability to alkenes where both substituents are on the same carbon of the double bond.  Steric effects come in to play when the substituent groups are on the same side of the alkene - they are bumping into each other!
 
 To review the content above in video format, please check out the video below.  There are problems within section 5.6 that can be completed for practice.  Then, head to canvas for the question set!
 
