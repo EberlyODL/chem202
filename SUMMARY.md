@@ -47,6 +47,6 @@
   * [PLA Lecture 20](pla-lecture-20.md)
 * Week 8
   * [PLA Lecture 21](pla-lecture-21.md)
-  * PLA Lecture 22
-  * PLA Lecture 23
+  * [PLA Lecture 22](pla-lecture-22.md)
+  * [PLA Lecture 23](pla-lecture-23.md)
 
