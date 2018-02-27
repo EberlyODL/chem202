@@ -38,15 +38,43 @@
   * [PLA Lecture 13](pla-lecture-13.md)
   * [PLA Lecture 14](pla-lecture-14.md)
 * Week 6
-  * PLA Lecture 15
-  * PLA Lecture 16
-  * PLA Lecture 17
+  * [PLA Lecture 15](pla-lecture-15.md)
+  * [PLA Lecture 16](pla-lecture-16.md)
+  * [PLA Lecture 17](pla-lecture-17.md)
 * Week 7
-  * PLA Lecture 18
-  * PLA Lecture 19
-  * PLA Lecture 20
+  * [PLA Lecture 18](pla-lecture-18.md)
+  * [PLA Lecture 19](pla-lecture-19.md)
+  * [PLA Lecture 20](pla-lecture-20.md)
 * Week 8
-  * PLA Lecture 21
-  * PLA Lecture 22
-  * PLA Lecture 23
+  * [PLA Lecture 21](pla-lecture-21.md)
+  * [PLA Lecture 22](pla-lecture-22.md)
+  * [PLA Lecture 23](pla-lecture-23.md)
+* Week 9
+  * PLA Lecture 24
+  * PLA Lecture 25
+  * PLA Lecture 26
+* [Week 10](week-10.md)
+  * PLA Lecture 27
+  * PLA Lecture 28
+  * PLA Lecture 29
+* [Week 11](week-11.md)
+  * PLA Lecture 30
+  * PLA Lecture 31
+  * PLA Lecture 32
+* Week 12
+  * PLA Lecture 33
+  * PLA Lecture 34
+  * PLA Lecture 35
+* Week 13
+  * PLA Lecture 36
+  * PLA Lecture 37
+  * [PLA Lecture 38](pla-lecture-38.md)
+* Week 14
+  * PLA Lecture 39
+  * PLA Lecture 40
+  * PLA Lecture 41
+* Week 15
+  * PLA Lecture 42
+  * PLA Lecture 43
+  * PLA Lecture 44
 
