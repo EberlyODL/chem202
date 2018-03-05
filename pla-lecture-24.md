@@ -9,6 +9,7 @@ Ethers and sulfides are named two different ways.  One is according to a common 
 Ethers contain a C-O-C arrangement while sulfides are the sulfur analogs with a C-S-C arrangement.  The common system is quite simple.  Name the two alkyl groups on either side followed by the name "ether" or "sulfide."  The alkyl groups are listed alphabetically.  In the case where the two alkyl groups are identical, the prefix "di-" is used in front of the name.  Examples are shown below:
 
 
+In the IUPAC system, ethers and sulfides are named as substituents.  After you identify the longest continuous chain, name any ether substituents as "alkoxy."
 
 
 
