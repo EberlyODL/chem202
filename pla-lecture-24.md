@@ -6,7 +6,7 @@ The prelecture content will focus on naming these functional groups so you know 
 
 Ethers and sulfides are named two different ways.  One is according to a common nomenclature system or the IUPAC (International Union of Pure and Applied Chemistry) system.  Both systems are used, so I provide an overview of both below.
 
-Ethers contain a C-O-C arrangement while sulfides are the sulfur analogs with a C-S-C arrangement of atoms.  The common system is quite simple.  Name the two alkyl groups on either side followed by the name "ether" or "sulfide."  The alkyl groups are listed alphabetically.  In the case where the two alkyl groups are identical, the prefix "di-" is used in front of the name.  Examples are shown below:
+Ethers contain a C-O-C arrangement while sulfides are the sulfur analogs with a C-S-C arrangement of atoms.  The common system is quite simple.  Name the two alkyl groups on either side followed by the name "ether" or "sulfide."  The alkyl groups are listed alphabetically.  In the case where the two alkyl groups are identical, the prefix "di-" is used in front of the name.  Only use the common names when both branches are 4 carbons or fewer.  Examples are shown below:
 
 
 In the IUPAC system, ethers and sulfides are named as substituents on the parent chain just like alkyl branches or halides.  After you identify the longest continuous chain, name any ether substituents as "alkoxy."  The number of carbons in the substituent identifies the specific name.  For example, 1 carbon would be a methoxy group ($$ROCH_3$$).  For sulfides, the general name is "alkylthio" group.  A two carbon sulfide group ($$RSCH_2CH_3$$) would be "ethylthio."  
