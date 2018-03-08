@@ -12,4 +12,10 @@ Ethers contain a C-O-C arrangement while sulfides are the sulfur analogs with a 
 In the IUPAC system, ethers and sulfides are named as substituents on the parent chain just like alkyl branches or halides.  After you identify the longest continuous chain, name any ether substituents as "alkoxy."  The number of carbons in the substituent identifies the specific name.  For example, 1 carbon would be a methoxy group ($$ROCH_3$$).  For sulfides, the general name is "alkylthio" group.  A two carbon sulfide group ($$RSCH_2CH_3$$) would be "ethylthio."  
 
 
+A few examples are highlighted in the videos below.  Head back to Canvas to test yourself with the question set!
+
+[ciscode|rev=1|tool=elmsmedia|item=4279|entity_type=node|render=display_mode|display_mode=mediavideo]
+
+[ciscode|rev=1|tool=elmsmedia|item=4278|entity_type=node|render=display_mode|display_mode=mediavideo]
+
 
