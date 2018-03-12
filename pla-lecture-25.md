@@ -16,7 +16,13 @@ Any other substituent \(ether, sulfide, halogen, or alkyl\) will have equivalent
 
 Amines and thiols (along with ethers and sulfides) can be made from substitution reactions.  These groups are named much like their oxygen analogs, alcohols.  Amines can be characterized by the number of alkyl substituents bonded to the nitrogen.  If there is one alkyl group, it is a primary amine. When there are two or three, they are secondary or tertiary, respectively.  (Note that this is different than how we classify the substitution of alcohols or halides.)
 
-To name an amine, you will name it with the suffix
+To name an amine, you can use a common system when the alkyl groups are simple (i.e. alkylamine).  For example, ethylamine, ethylmethylpropylamine, and diethylamine.
+
+According to the IUPAC system, amines will have the parent name ending in "-_amine_."  (The same way as alcohols!)  For secondary or tertiary amines, you must indicate the substituents on the nitrogen by placing "N" rather than a number in front of the substituent.
+
+When the amino group is not he principle group, then it is named as an "-_amino_-" substituent as highlighted below.
+
+Thiols will be named in the same way as alcohols and amines.  The IUPAC system uses the suffix, "-_thiol_."
 
 
 
