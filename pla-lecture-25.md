@@ -2,7 +2,7 @@
 
 We have reached a point where we need to consider the priority of different functional groups in the name. When multiple functional groups are present, what group will be the principle group and assigned higher priority?
 
-| Group \(Highest--&gt;lowest\) | Suffix | As substituent |
+| Group \(Highest-->lowest\) | Suffix | As substituent |
 | :--- | :--- | :--- |
 | -OH, alcohol | -ol | -hydroxy- |
 | -SH, thiol | -thiol | -mercapto- |
@@ -14,7 +14,9 @@ Any other substituent \(ether, sulfide, halogen, or alkyl\) will have equivalent
 
 
 
-Amines and thiols \(along with ethers and sulfides\) can be made from substitution reactions.  These groups are named much like their oxygen analogs, alcohols.  Amines are characterized by the number of alkyl substituents bonded to the nitrogen.  If there is one alkyl group, it is a primary amine. When there are two or three, they are secondary or tertiary, respectively.  \(Note that this is different than how we classify the substitution of alcohols or halides.\)
+Amines and thiols (along with ethers and sulfides) can be made from substitution reactions.  These groups are named much like their oxygen analogs, alcohols.  Amines can be characterized by the number of alkyl substituents bonded to the nitrogen.  If there is one alkyl group, it is a primary amine. When there are two or three, they are secondary or tertiary, respectively.  (Note that this is different than how we classify the substitution of alcohols or halides.)
+
+To name an amine, you will name it with the suffix
 
 
 
