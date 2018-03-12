@@ -22,7 +22,7 @@ According to the IUPAC system, amines will have the parent name ending in "-_ami
 
 When the amino group is not he principle group, then it is named as an "-_amino_-" substituent as highlighted below.
 
-Thiols will be named in the same way as alcohols and amines.  The IUPAC system uses the suffix, "-_thiol_."  If it is named as a substituent, it is a "-mercapto-."  this name comes from the word mercaptan, which is what thiols used to be called because of their ability to form complexes with mercury and other metals.  
+Thiols will be named in the same way as alcohols and amines.  The IUPAC system uses the suffix, "-_thiol_."  If it is named as a substituent, it is a "-_mercapto_-."  this name comes from the word mercaptan, which is what thiols used to be called because of their ability to form complexes with mercury and other metals.  
 
 
 
