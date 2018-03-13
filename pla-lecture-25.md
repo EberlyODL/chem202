@@ -6,11 +6,11 @@ We have reached a point where we need to consider the priority of different func
 | :--- | :--- | :--- |
 | -OH, alcohol | -ol | -hydroxy- |
 | -SH, thiol | -thiol | -mercapto- |
-| -NH$$\_2$$, amine | -amine | -amino- |
+| -NH$$_2$$, amine | -amine | -amino- |
 | C=C, alkene | -ene | n/a |
 | C$$\equiv$$C, alkyne | -yne | n/a |
 
-Any other substituent \(ether, sulfide, halogen, or alkyl\) will have equivalent priority and if those are the only functional groups, they will end in "-ane."  We will add to this list as we encounter other functional groups.  This ranking order will be provided on the exam, but with the suffix and substituent names omitted.
+Any other substituent (ether, sulfide, halogen, or alkyl) will have equivalent priority and if those are the only functional groups, the name will end in "-ane."  We will add to this list as we encounter other functional groups.  This ranking order will be provided on the exam, but with the suffix and substituent names omitted.
 
 
 
@@ -22,7 +22,9 @@ According to the IUPAC system, amines will have the parent name ending in "-_ami
 
 When the amino group is not he principle group, then it is named as an "-_amino_-" substituent as highlighted below.
 
-Thiols will be named in the same way as alcohols and amines.  The IUPAC system uses the suffix, "-_thiol_."  If it is named as a substituent, then it is named as "-_mercapto_-."  This name comes from the word mercaptan, which is the former name for thiols because of their ability to form complexes with mercury and other metals.
+Thiols are a class of smelly compounds.  A small amount of methylthiol is used to give natural gas its odor.  Thiols are responsible for the smell of coffee, skunk, and many other scents.  
+
+Thiols will be named in a similar manner to alcohols and amines.  The IUPAC system uses the suffix, "-_thiol_."  If it is named as a substituent, then it is named as "-_mercapto_-."  This name comes from the word mercaptan, which is the former name for thiols because of their ability to form complexes with mercury and other metals.
   
 
 
