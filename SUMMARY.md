@@ -54,8 +54,8 @@
   * [PLA Lecture 25](pla-lecture-25.md)
   * [PLA Lecture 26](pla-lecture-26.md)
 * [Week 10](week-10.md)
-  * PLA Lecture 27
-  * PLA Lecture 28
+  * [PLA Lecture 27](week-10/pla-lecture-27.md)
+  * [PLA Lecture 28](week-10/pla-lecture-28.md)
   * PLA Lecture 29
 * [Week 11](week-11.md)
   * PLA Lecture 30
