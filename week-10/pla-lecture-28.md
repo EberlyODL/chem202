@@ -24,7 +24,13 @@ Here's how the derivatives fit into our nomenclature hierarchy.
 
 ## Esters
 
+(Watch up to 6:18)
+[ciscode|rev=1|tool=elmsmedia|item=4302|entity_type=node|render=display_mode|display_mode=mediavideo]
+
 ## Amides
+
+(Watch up to 6:25)
+[ciscode|rev=1|tool=elmsmedia|item=4301|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 
 
