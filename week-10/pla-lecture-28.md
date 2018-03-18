@@ -16,11 +16,18 @@ Here's how the derivatives fit into our nomenclature hierarchy.
 | C=C, alkene | -ene | n/a |
 | C$$\equiv$$C, alkyne | -yne | n/a |
 
+[ciscode|rev=1|tool=elmsmedia|item=4303|entity_type=node|render=display_mode|display_mode=mediavideo]
+
+
 ## Carboxylic acids
 
+(Watch up to 5:32)
+[ciscode|rev=1|tool=elmsmedia|item=4305|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 ## Acid chlorides & Anhydrides
 
+(Watch up to 1:45 and 4:20-7:39)
+[ciscode|rev=1|tool=elmsmedia|item=4304|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 ## Esters
 
