@@ -7,9 +7,9 @@ Here's how the derivatives fit into our nomenclature hierarchy.
 | Group (Highest-->lowest) | Suffix | As substituent |
 | :--- | :--- | :--- |
 | -COOH, acid | -oic acid | n/a for us |
-| -COOCl, acid chloride | -oyl chloride | n/a for us |
+| -COCl, acid chloride | -oyl chloride | n/a for us |
 | -COOR, ester | -oate | n/a for us |
-| -COONR$$_2$$, amide | -amide | n/a for us |
+| -CONR$$_2$$, amide | -amide | n/a for us |
 | -OH, alcohol | -ol | -hydroxy- |
 | -SH, thiol | -thiol | -mercapto- |
 | -NH$$_2$$, amine | -amine | -amino- |
