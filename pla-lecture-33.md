@@ -2,8 +2,8 @@
 
 There are two factors that influence the reactivity of aldehydes and ketones.  
 
-1) electronic
-2) steric
+1) electronic effects
+2) steric effect
 
 We discussed electronic effects thoroughly with respect to the carboxylic acid derivatives.  We used data from Chapter 7 and were able to explain how electron donating and electron withdrawing groups affected the reactivity of the various carbonyl compounds (just as donors and withdrawers affected the acidity/basicity of substituted benzene derivatives).  
 
