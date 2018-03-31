@@ -13,3 +13,11 @@ In class on March 30, we considered the electronic effects of ketones and aldehy
 
 **Take a few minutes to explain in your own words the ranking below of the carbonyl derivatives.  Why are ketones are less reactive than aldehydes?** 
 
+The second factor to consider is steric effects.  As the groups attached to the carbonyl get larger (bulkier), they will hinder the approach of the nucleophile and also destabilize the tetrahedral intermediate that is formed (Figure 2).
+
+**In your own words, define what is meant by "sterics."**
+
+
+Refer to the video below or section 12.2 of the textbook for a summary of the above information!
+
+[ciscode|rev=1|tool=elmsmedia|item=4331|entity_type=node|render=display_mode|display_mode=mediavideo]
