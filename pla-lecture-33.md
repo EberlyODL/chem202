@@ -20,6 +20,7 @@ The second factor to consider is steric effects.  As the groups attached to the 
 
 _**In your own words, define what is meant by "sterics."**_
 
+[ciscode|rev=1|tool=elmsmedia|item=4333|entity_type=node|render=display_mode|display_mode=image]
 
 Refer to the video below or section 12.2 of the textbook for a summary of the above information!
 
