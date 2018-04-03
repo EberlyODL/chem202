@@ -9,5 +9,7 @@ Know the following reactions and be able to predict the products or reactants.  
 **_Why can't tertiary alcohols be oxidized?_**
 
 
+[ciscode|rev=1|tool=elmsmedia|item=4335|entity_type=node|render=display_mode|display_mode=image]
 
+**Head back to canvas to try out some reaction fill-ins!**
 
