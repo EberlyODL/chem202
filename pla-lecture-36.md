@@ -19,6 +19,7 @@ Some things to know about sugar structures:
 * In the $$\alpha$$ anomer, the methylene hydroxyl ($$-CH_2OH$$) group will be _trans_ with the hydroxyl on the anomeric carbon
 
 
+
 Practice converting back-and-forth between chairs, Haworth, and Fischer projections.  Have fun! :)
 
 
