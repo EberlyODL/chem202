@@ -10,16 +10,16 @@ Some things to know about sugar structures:
 
 * D- sugars will have the the C5 hydroxyl group on the right-hand side of the Fischer projection
 
-* L- sugars are enantiomers of D- sugars
+* L- sugars are enantiomers of D- sugars.  To identify L- sugars, draw the D- enantiomer and use Table 16.1 (provided on exam) to find the name.
 
-* When drawing the Haworth from a Fischer, the groups on the left go down and groups on the right go up (be able to go from Haworth to Fischer)
+* When drawing the Haworth from a Fischer, the groups on the left go down and groups on the right go up (be able to go from Haworth to Fischer).  To identify sugars from Haworth projection, draw the Fischer and determine the name from Table 16.1 (provided on the exam).
 
 * In the $$\beta$$ anomer, the methylene hydroxyl ($$-CH_2OH$$) group will be _cis_ with the hydroxyl on the anomeric carbon
 
 * In the $$\alpha$$ anomer, the methylene hydroxyl ($$-CH_2OH$$) group will be _trans_ with the hydroxyl on the anomeric carbon
 
 
-As you practice converting back-and-forth between chairs, Haworth, and Fischer projections, you begin to recognize the patterns.
+Practice converting back-and-forth between chairs, Haworth, and Fischer projections.  Have fun! :)
 
 
 
