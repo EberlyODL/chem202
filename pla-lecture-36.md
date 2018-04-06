@@ -1,0 +1,25 @@
+# Sugar Representations
+
+
+Sugars are commonly represented with Fischer projections or Haworth projections.  Review your class notes to see how to draw and interpret them.
+
+In this course, we will limit our discussion to hexoses (sugars with 6 carbons).  When these compounds form rings, the cyclic form is known as a pyranose. The beta anomer of D-glucose would be named as $$\beta$$-D-glucopyranose.
+
+
+Some things to know about sugar structures:
+
+* D- sugars will have the the C5 hydroxyl group on the right-hand side of the Fischer projection
+
+* L- sugars are enantiomers of D- sugars
+
+* When drawing the Haworth from a Fischer, the groups on the left go down and groups on the right go up (be able to go from Haworth to Fischer)
+
+* In the $$\beta$$ anomer, the methylene hydroxyl ($$-CH_2OH$$) group will be _cis_ with the hydroxyl on the anomeric carbon
+
+* In the $$\alpha$$ anomer, the methylene hydroxyl ($$-CH_2OH$$) group will be _trans_ with the hydroxyl on the anomeric carbon
+
+
+As you practice converting back-and-forth between chairs, Haworth, and Fischer projections, you begin to recognize the patterns.
+
+
+
