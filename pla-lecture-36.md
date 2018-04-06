@@ -1,4 +1,4 @@
-# Sugar Representations
+# Representations of Sugars
 
 
 Sugars are commonly represented with Fischer projections and Haworth projections.  Review your class notes to see how to draw and interpret them.
