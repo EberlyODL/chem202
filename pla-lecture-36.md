@@ -1,7 +1,7 @@
 # Sugar Representations
 
 
-Sugars are commonly represented with Fischer projections or Haworth projections.  Review your class notes to see how to draw and interpret them.
+Sugars are commonly represented with Fischer projections and Haworth projections.  Review your class notes to see how to draw and interpret them.
 
 In this course, we will limit our discussion to hexoses (sugars with 6 carbons).  When these compounds form rings, the cyclic form is known as a pyranose. The beta anomer of D-glucose would be named as $$\beta$$-D-glucopyranose.
 
