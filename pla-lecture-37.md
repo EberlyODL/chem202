@@ -9,4 +9,4 @@ The alpha ($$\alpha$$) hydrogens of carbonyl compounds are unusually acidic. Do 
 Well, acidity is related to the stability of an acid's conjugate base.  So, if we consider the conjugate base, maybe that will help.
 
 
-You may notice that the conjugate base has a lone pair next to a pi bond, which is a pattern of resonance you may recognize.  The presence of resonance makes this base more stable, and therefore, the C-H bond of an $$\alpha$$-hydrogen more acidic.  
+You may notice that the conjugate base has a lone pair next to a pi bond, which is a [pattern of resonance](/pla-lecture-4.md) you may recognize.  The presence of resonance makes this base more stable, and therefore, the C-H bond of an $$\alpha$$ carbon more acidic.  
