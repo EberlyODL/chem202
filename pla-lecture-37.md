@@ -10,3 +10,5 @@ Well, acidity is related to the stability of an acid's conjugate base.  So, if w
 
 
 You may notice that the conjugate base has a lone pair next to a pi bond, which is a [pattern of resonance](/pla-lecture-4.md) you may recognize.  The presence of resonance makes this base more stable, and therefore, the C-H bond of an $$\alpha$$ carbon more acidic.  
+
+Now lets compare 
