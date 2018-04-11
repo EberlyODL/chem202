@@ -6,6 +6,8 @@ Two aldehydes or ketones react under basic conditions to produce an aldol produc
 
 Intramolecular aldols can occur when there are two carbonyls in the same molecule.  In the example below, a 1.4-diketone can form two different enolates.  One leads to a 5-membered ring, and the other to a 3-membered ring.  The 5-membered ring is the only product produced due to its greater stability.  
 
-[ciscode|rev=1|tool=elmsmedia|item=4356|entity_type=node|render=display_mode|display_mode=image]
+[ciscode|rev=1|tool=elmsmedia|item=4356|entity_type=node|render=display_mode|display_mode=image__lightboxed]
 
 Generally, the formation of 5- or 6- membered rings is favorable.  Anything smaller or larger is more difficult.  When there is a  choice of ring size, choose the most stable ring as the major product.
+
+Take some time to practice with the two questions in canvas.  Please ask questions if you have any! :)
