@@ -69,8 +69,8 @@
   * [PLA Lecture 36](pla-lecture-36.md)
   * [PLA Lecture 37](pla-lecture-37.md)
   * [PLA Lecture 38](pla-lecture-38.md)
-* Week 14
-  * PLA Lecture 39
+* [Week 14](week-14.md)
+  * [PLA Lecture 39](week-14/pla-lecture-39.md)
   * PLA Lecture 40
   * PLA Lecture 41
 * Week 15
