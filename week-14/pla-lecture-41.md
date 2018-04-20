@@ -1,3 +1,3 @@
-# Radical Reactions
+# Radical Reactions & Selectivity
 
-Radical reactions generally occur.
+Radical reactions generally occur 
