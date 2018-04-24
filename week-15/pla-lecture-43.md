@@ -14,4 +14,4 @@ For **cationic polymerization** to occur, the alkene needs to have an electron d
 
 Unlike cationic polymerization, **anionic polymerization** is only efficient when the alkene contains electron withdrawing groups.   The mechanism is believed to occur as shown below.  Again, we will dig into the details of the mechanism in the next class session.
 
-For now, I ask that you identify the best method of polymerization given a monomer or polymer based on the functional groups attached.
+For now, I ask that you identify the best method of polymerization given a monomer or polymer based on the functional groups attached.  When looking at a polymer, first identify the monomer and then determine if the substituent group(s) is(are) electron donating or electron withdrawing.
