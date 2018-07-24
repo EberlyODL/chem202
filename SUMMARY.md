@@ -19,4 +19,5 @@
     * [VSEPR Theory](vsepr-theory.md)
     * [Molecular Geometry](molecular-geometry.md)
     * [Molecular Polarity](molecular-polarity.md)
+  * Acids and Bases
 
