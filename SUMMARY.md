@@ -19,4 +19,5 @@
     * [VSEPR Theory](vsepr-theory.md)
     * [Molecular Geometry](molecular-geometry.md)
     * [Molecular Polarity](molecular-polarity.md)
-* End of Book
+* [End of Book](end-of-book.md)
+
