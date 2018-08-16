@@ -7,7 +7,7 @@
 * Use molecular geometry and electronegativity differences to determine whether a molecule will have an overall dipole moment. 
 
 
-[ciscode|rev=1|tool=elmsmedia|item=3493|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3493|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]</media-video>
 
 We're going to take what we know about bond polarity and molecular shape to identify whether or not a molecule is polar.
 
@@ -24,7 +24,7 @@ To determine the polarity of a molecule you should start by drawing the Lewis st
 Figure 1 shows the example of water. If you write out the Lewis structure of water it will have two lone pairs on the central oxygen. That will give it a tetrahedral electron domain geometry and a bent molecular geometry. Next, I drew in the individual bond dipoles (green and light blue arrows). The bond dipoles point towards oxygen since oxygen is more electronegative than hydrogen. For the final step, I need to decide whether the dipoles point in the opposite direction or not. As is always the case for bent molecules, they don’t; thus the molecule is polar. The purple arrow shows the net dipole for the molecule. This dipole represents the sum of the two individual bond dipoles (that is, the bond dipoles were positioned head to tail, as shown with the dotted blue line, and the purple arrow is given by the path connecting the tail of the first (green) arrow to the head of the second (blue) arrow. This is referred to as the “vector sum” of the dipoles—a term you may recall if you’ve taken physics. The distribution of charge in the molecule is shown in the colored model at the bottom of the figure (red = more negative; blue = more positive). If you look carefully you’ll see the stick model of water beneath the colored surface. Notice that the color gradient in the model follows the direction of the purple dipole arrow, with the arrow head being oriented near the negative end of the molecule and the tail of the arrow being oriented near the positive end of the molecule and bisecting the angle between the two hydrogen atoms. 
 
 
-[ciscode|rev=1|tool=elmsmedia|item=3494|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3494|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]</media-video>
 
 For additional examples, please watch the video to the right.
 

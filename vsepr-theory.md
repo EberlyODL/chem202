@@ -8,7 +8,7 @@
 
 * Analyze the shape and bond angles of each central atom in a large molecule. 
 
-[ciscode|rev=1|tool=elmsmedia|item=3474|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3474|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]</media-video>
 
 
 Lewis structures convey only the connectivity of atoms and placement of electrons.  Using the Valence Shell Electron Pair Repulsion (VSEPR) model, we will be able to predict a molecule's three-dimensional shape.  The shape is important for determining a molecule's polarity, which has a big impact on its physical properties.  A practical application of molecular shape is in drug design.  Drugs are often small molecules that have a specific target in the body.  In order to bind or react with the target, the shape of the molecule has to be just right. 
@@ -19,7 +19,7 @@ The particular shape or geometry about an atom is based on the number of groups,
 
 ## Key Concepts of VSEPR
 
-[ciscode|rev=1|tool=elmsmedia|item=3473|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3473|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]</media-video>
 
 A central premise of VSEPR theory is that electron domains want to be as far from other domains as possible to minimize electron-electron repulsion (hence the name!).  In organic, we will only need to consider three basic shapes or electron domain geometries related to the steric number.
 
@@ -33,7 +33,7 @@ A central premise of VSEPR theory is that electron domains want to be as far fro
 
 <div class="spacer" style="display:block;overflow:hidden;width:100%;"></div>
 
-[ciscode|rev=1|tool=elmsmedia|item=3475|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3475|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]</media-video>
 
 The second key concept is that lone pairs take up more space about an atom.  This will result in small deviations from the predicted bond angles.  Similarly, key concept three is that multiple bonds take up more space.  This should make sense because there is more electron density in those regions and they will have increased repulsions.  Angles that include a double or triple bond will be larger while the angle that does not include the multiple bond must be smaller.
 
