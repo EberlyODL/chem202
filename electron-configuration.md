@@ -22,4 +22,4 @@ It will soon be important to identify types of electrons, especially those that 
 
 [ciscode|rev=1|tool=elmsmedia|item=3336|entity_type=node|render=display_mode|display_mode=h5p]
 
-## You've reached the end of the first foundation.  [Return to Canvas to practice!](http://canvas.psu.edu)
+## You've reached the end of the first foundation.  Return to Canvas to practice!
