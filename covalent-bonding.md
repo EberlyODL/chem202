@@ -4,7 +4,7 @@
 # Covalent Bonding
 [ciscode|rev=1|tool=elmsmedia|item=2670|entity_type=node|render=display_mode|display_mode=h5p]
 
-[ciscode|rev=1|tool=elmsmedia|item=3377|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3377|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]</media-video>
 
 Covalent bonding results from the sharing of electrons between multiple nuclei. Molecular compounds (i.e., compounds that feature only covalent bonding) consist of individual molecules. Molecular compounds are essentially always composed only of nonmetals (or nonmetals and metalloids, which come from the right side of the periodic table as well). Hydrogen chloride (HCl), water, acetic acid (CH$$_3$$COOH, the acid found in vinegar), and ammonia (NH$$_3$$) are all molecular compounds, and they all consist exclusively of nonmetals. In contrast to ionic compounds, molecular compounds tend to have lower melting points. 
 
