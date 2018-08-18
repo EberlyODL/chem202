@@ -17,6 +17,7 @@
     * [Exceptions to the Octet Rule](exceptions-to-the-octet-rule.md)
     * [Skeletal Structures](skeletal-structures.md)
     * [Resonance](resonance.md)
+    * [More on Resonance](more-on-resonance.md)
   * [Molecular Shape](molecular-shape.md)
     * [VSEPR Theory](vsepr-theory.md)
     * [Molecular Geometry](molecular-geometry.md)
@@ -27,5 +28,4 @@
 * [Hydrocarbons](hydrocarbons.md)
 * [End of Book](end-of-book.md)
 * [Nomenclature of Alkenes](nomenclature-of-alkenes.md)
-* [More on Resonance](more-on-resonance.md)
 
