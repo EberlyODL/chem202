@@ -15,6 +15,7 @@
     * [Formal Charge](formal-charge.md)
     * [Drawing Lewis Structures](drawing-lewis-structures.md)
     * [Exceptions to the Octet Rule](exceptions-to-the-octet-rule.md)
+    * [Skeletal Structures](skeletal-structures.md)
     * [Resonance](resonance.md)
   * [Molecular Shape](molecular-shape.md)
     * [VSEPR Theory](vsepr-theory.md)
