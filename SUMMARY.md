@@ -27,4 +27,5 @@
 * [Hydrocarbons](hydrocarbons.md)
 * [End of Book](end-of-book.md)
 * [Nomenclature of Alkenes](nomenclature-of-alkenes.md)
+* [More on Resonance](more-on-resonance.md)
 
