@@ -10,6 +10,7 @@
     * [Covalent Bonding](covalent-bonding.md)
     * [Bond Polarity and Electronegativity](bond-polarity-and-electronegativity.md)
     * [Valence Bond Theory](valence-bond-theory.md)
+    * [Hybridization](hybridization.md)
   * [Drawing Structures](drawing-structures.md)
     * [Formal Charge](formal-charge.md)
     * [Drawing Lewis Structures](drawing-lewis-structures.md)
