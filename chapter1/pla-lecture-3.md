@@ -47,7 +47,7 @@ Another concept that is important in understanding reaction mechanisms is the le
 Let us apply these concepts to the reaction of carbonic acid ($$H_2CO_3$$) with water to yield bicarbonate and a hydronium ion. The reaction mechanism is described using two arrows (see Figure 3). One arrow points from the lone pair of electrons on the water molecule to a hydrogen atom on carbonic acid. This arrow conveys the idea that the oxygen from water is using its lone pair electrons to form a bond with the hydrogen atom. Since hydrogen can only form one bond at a time, it must break its existing bond to oxygen. Breaking the existing O-H bond is represented by the second arrow, which points from the O-H bond in carbonic acid to the oxygen atom in the same O-H bond. This arrow conveys the idea that the O-H bond is breaking and that the electrons from that bond are being retained by carbonic acid’s oxygen as a lone pair. In this reaction the oxygen in water is a nucleophile and the hydrogen in carbonic acid is an electrophile, as the oxygen in water is using its electrons to form a new bond and hydrogen is the recipient of those electrons. Finally, the remainder of the carbonic acid molecule ($$HCO_3^-$$) serves as a leaving group, as it results from the cleavage of the carbonic acid O-H bond and it takes a pair of electrons with it. Note that charge is balanced on both sides of the reaction.
 
 
-### For more practice and examples, please look to the course textbook and the Tutorial on pages 174-181.  Then, review section 2.3 to see how curved arrows can be applied to acid-base reactions!  Practice identifying the electrophiles and nucleophiles in the examples provided!  
+ 
 
 
 
