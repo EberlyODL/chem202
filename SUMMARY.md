@@ -23,6 +23,7 @@
     * [Molecular Polarity](molecular-polarity.md)
   * Acids and Bases
 * [Functional Groups](functional-groups.md)
-* [End of Book](end-of-book.md)
 * [Curved Arrows](curved-arrows.md)
+* [Hydrocarbons](hydrocarbons.md)
+* [End of Book](end-of-book.md)
 
