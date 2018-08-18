@@ -22,7 +22,7 @@
     * [VSEPR Theory](vsepr-theory.md)
     * [Molecular Geometry](molecular-geometry.md)
     * [Molecular Polarity](molecular-polarity.md)
-  * Acids and Bases
+  * [Acids and Bases](acids-and-bases.md)
 * [Functional Groups](functional-groups.md)
 * [Curved Arrows](curved-arrows.md)
 * [Hydrocarbons](hydrocarbons.md)
