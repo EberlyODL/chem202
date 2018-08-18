@@ -26,6 +26,6 @@
 * [Functional Groups](functional-groups.md)
 * [Curved Arrows](curved-arrows.md)
 * [Hydrocarbons](hydrocarbons.md)
-* [End of Book](end-of-book.md)
 * [Nomenclature of Alkenes](nomenclature-of-alkenes.md)
+* [End of Book](end-of-book.md)
 
