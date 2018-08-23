@@ -24,9 +24,10 @@
     * [Molecular Polarity](molecular-polarity.md)
   * [Acids and Bases](acids-and-bases.md)
     * [Acid Definition](acids-and-bases/acid-definition.md)
-    * Ka and pKa
+    * [Ka and pKa](acids-and-bases/ka-and-pka.md)
     * [ARIO Rules](acids-and-bases/ario-rules.md)
-    * Acid Reactions
+    * [Acid Reactions](acids-and-bases/acid-reactions.md)
+    * [Predicting Equilibrium](acids-and-bases/predicting-equilibrium.md)
 * [Functional Groups](functional-groups.md)
 * [Curved Arrows](curved-arrows.md)
 * [Hydrocarbons](hydrocarbons.md)
