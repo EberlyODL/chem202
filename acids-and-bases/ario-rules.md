@@ -11,6 +11,7 @@ The key idea is, _"It's all about the stability of the conjugate base!"_
 There are four criteria to consider known as the ARIO rules.
 ## A = Atom
 
+[ciscode|rev=1|tool=elmsmedia|item=4686|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 ## R = Resonance
 
