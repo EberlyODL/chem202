@@ -23,6 +23,10 @@
     * [Molecular Geometry](molecular-geometry.md)
     * [Molecular Polarity](molecular-polarity.md)
   * [Acids and Bases](acids-and-bases.md)
+    * [Acid Definition](acids-and-bases/acid-definition.md)
+    * Ka and pKa
+    * [ARIO Rules](acids-and-bases/ario-rules.md)
+    * Acid Reactions
 * [Functional Groups](functional-groups.md)
 * [Curved Arrows](curved-arrows.md)
 * [Hydrocarbons](hydrocarbons.md)
