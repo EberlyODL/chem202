@@ -14,9 +14,11 @@ There are four criteria to consider known as the ARIO rules.
 
 ## R = Resonance
 
+[ciscode|rev=1|tool=elmsmedia|item=4684|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 ## I = Induction
 
+[ciscode|rev=1|tool=elmsmedia|item=4685|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 ## O = Orbital
 
