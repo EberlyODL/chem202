@@ -20,6 +20,12 @@
     * [VSEPR Theory](vsepr-theory.md)
     * [Molecular Geometry](molecular-geometry.md)
     * [Molecular Polarity](molecular-polarity.md)
+  * [Acids and Bases](acids-and-bases.md)
+    * [Acid Definition](acids-and-bases/acid-definition.md)
+    * [Ka and pKa](acids-and-bases/ka-and-pka.md)
+    * [ARIO Rules](acids-and-bases/ario-rules.md)
+    * [Acid Reactions](acids-and-bases/acid-reactions.md)
+    * [Predicting Equilibrium](acids-and-bases/predicting-equilibrium.md)
 * [Week 1](chapter1.md)
   * [PLA Lecture 1](chapter1/pla-lecture-1.md)
   * [PLA Lecture 2](chapter1/pla-lecture-2.md)
@@ -59,7 +65,7 @@
   * [PLA Lecture 28](week-10/pla-lecture-28.md)
   * [PLA Lecture 29](week-10/pla-lecture-29.md)
 * [Week 11](week-11.md)
-  * PLA Lecture 30
+  * [PLA Lecture 30](week-11/pla-lecture-30.md)
   * [PLA Lecture 31](week-11/pla-lecture-31.md)
   * [PLA Lecture 32](week-11/pla-lecture-32.md)
 * Week 12
