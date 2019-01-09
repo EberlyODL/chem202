@@ -1,24 +1,27 @@
 # Pre-lecture Assignment 3
 
 
-## Isomers
+# Resonance
+
+### Before you begin, make sure that you have completed the [third Foundations module](/drawing-structures.md) on drawing structures.
 
 
 
-Isomers are compounds that have the same molecular formula.  There are several different types of isomers, for now, we will consider two types: constitutional and geometric.
+Resonance will be an important consideration for us in the course. We will first see resonance theory applied to acid-base chemistry.
 
-## Constitutional Isomers
+There are four basic patterns of resonance to watch for. One of these patterns was seen in the foundational review.
 
-<media-video>[ciscode|rev=1|tool=elmsmedia|item=3525|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]</media-video>
+There will be resonance when:
+> 1) lone pairs are adjacent to a double (or triple) bond
 
+> 2) lone pairs or double bonds are adjacent to positive charge
 
-Constitutional isomers are compounds that differ in their connectivity.  Of course, as isomers, they have the same number and type of atoms, but the atoms are arranged differently.  Take a look at the video to the right to see examples and how to approach drawing isomers systematically.   
+> 3) a double (or triple) bond exists between two atoms of differing electronegativities
 
+> 4) there are alternating double-single bonds in a closed ring (i.e. benzene)
 
+[ciscode|rev=1|tool=elmsmedia|item=3476|entity_type=node|render=display_mode|display_mode=mediavideo]
 
+### Head back to Canvas for the question set!
 
-# Try it!
-
-Draw the isomers of $$C_3H_6O$$.  (Hint: There are eight.)
-
-<media-video>[ciscode|rev=1|tool=elmsmedia|item=3528|entity_type=node|render=display_mode|display_mode=mediavideo__poster]</media-video>
+### [Extra Resonance Practice](https://media.ed.science.psu.edu/sites/media/ed/files/documents/additional_resonance_practicef17.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/additional_resonance_practicef17_key.pdf))
