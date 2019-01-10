@@ -3,7 +3,7 @@
 
 # Resonance
 
-Before you begin, make sure that you have completed the [third Foundations module](/drawing-structures.md) on drawing structures.
+**Before you begin, make sure that you have completed the [third Foundations module](/drawing-structures.md) on drawing structures.**
 
 
 
