@@ -30,10 +30,11 @@
   * [PLA Lecture 1](chapter1/pla-lecture-1.md)
   * [PLA Lecture 2](chapter1/pla-lecture-2.md)
   * [PLA Lecture 3](chapter1/pla-lecture-3.md)
-* Week 2
+* [Week 2](week-2.md)
   * [PLA: Curved Arrows](pla-curved-arrows.md)
   * [PLA Lecture 4](pla-lecture-4.md)
   * [PLA Lecture 5](pla-lecture-5.md)
+  * [More on resonance](more-on-resonance.md)
 * [Week 3](week-3.md)
   * [PLA Lecture 6](week-3/pla-lecture-6.md)
   * [PLA Lecture 7](week-3/pla-lecture-7.md)
