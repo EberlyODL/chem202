@@ -30,6 +30,7 @@
   * [PLA Lecture 1](chapter1/pla-lecture-1.md)
   * [PLA Lecture 2](chapter1/pla-lecture-2.md)
   * [PLA Lecture 3](chapter1/pla-lecture-3.md)
+  * [Isomers](chapter1/isomers.md)
 * [Week 2](week-2.md)
   * [PLA: Curved Arrows](pla-curved-arrows.md)
   * [PLA Lecture 4](pla-lecture-4.md)
