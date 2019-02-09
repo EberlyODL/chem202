@@ -1,15 +1,13 @@
-# E/Z Nomenclature of Alkenes
+# Optical Activity
 
-We are familiar with the _cis_ and _trans_ nomenclature for simple alkenes. However, this designation isn't enough when there are four different groups on the double bond.
+We said that a enantiomers have the same chemical and physical properties. Well then, how can we tell the difference between enantiomers? What makes them unique (aside from smell and biological activity)?
 
-We will use the E/Z system of nomenclature to identify these alkenes. It's easy! We will look at each atom directly attached to the carbons of the double bond and assign a priority according to atomic number. If the high-priority groups are on the same side, that will be _Z_ from the German word zusammen, meaning together. If the high-priority groups are on opposite sides, that will be an _E_ alkene for the German word entgegen, meaning opposite.
+The answer lies in optical activity. _Please read sections 4.8 and 4.9 in the textbook._
 
-Check out the video below with several examples of how to apply the rules. We will do another practice problem or two in lecture. These rules will come back again when we determine _R_ or _S_ configuration of chiral centers on Friday.
+Chiral compounds are **optically active**; they rotate plane-polarized light. Achiral compounds are **optically inactive**; they do not rotate light. Thus, saying something is optically active or not is the same as saying it is chiral or achiral.  
 
+Enantiomers rotate light in equal, but opposite directions. One enantiomer will be the (+) enantiomer and the other will be (-). (Note: There is no connection between +/- to R/S configuration.) When a 50:50 mixture of enantiomers is analyzed in a polarimeter, the specific rotation is 0. They cancel each other out! This type of mixture is known as **racemic**.
 
-**For additional background and practice, please refer to Chapter 4.1-4.2 of the text and the problems within.**
-
-
-[ciscode|rev=1|tool=elmsmedia|item=4209|entity_type=node|render=display_mode|display_mode=mediavideo]
+Return to canvas to check out the question set!
 
 
