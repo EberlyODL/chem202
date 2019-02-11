@@ -23,7 +23,7 @@ The first pattern we have seen before. This is known as a **proton transfer**. A
 
 [ciscode|rev=1|tool=elmsmedia|item=4237|entity_type=node|render=display_mode|display_mode=image__lightboxed]
 
-The second pattern is **nucleophilic attack**, characterized by a nucleophile attacking an electrophile.  
+The second pattern is **nucleophilic attack**, characterized by a nucleophile attacking an electrophile.  (Note that this is similar to the proton transfer where the proton is the electrophile.  This is classified separately due to the unique nature of the energy and rate of proton transfer steps.)  A nucleophilic attack will involve electrophiles that are NOT protons! 
 
 [ciscode|rev=1|tool=elmsmedia|item=4233|entity_type=node|render=display_mode|display_mode=image__lightboxed]
 
