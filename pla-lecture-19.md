@@ -1,5 +1,11 @@
 # Alkene Addition Reactions
 
+**Learning Objectives:** _After this lesson, you should be able to…_
+
+* Predict the product of an alkene addition reaction
+* Identify the type of carbocation based on substitution
+
+
 
 Get excited!!  Here is your first chance to apply the basic mechanistic principles we have been learning!  
 
