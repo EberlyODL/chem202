@@ -1,9 +1,14 @@
-# Nomenclature of Alcohols
+# Alkene Addition Reactions
 
-We have been talking about alcohols as functional groups for a while now.  We are currently looking at reactions of alkenes to produce alcohols, and soon we will be looking at reactions of alcohols.  It's time we learn how to name them! (Yay!)
 
-Alcohols have priority over the other functional groups we have named so far (e.g. alkenes, alkynes, halides).  This means, that the alcohol group will get the lowest number on the parent chain.  The name of alcohols will end in "-ol."
+Get excited!!  Here is your first chance to apply the basic mechanistic principles we have been learning!  
 
-Check out the video below for some examples.  (This video also has some good review of stereochemistry!)  Practice with problems in Section 9.1 of the text.  Head to canvas to test yourself with a few questions.
+Generally, alkenes react with strong acids to produce an addition product (Figure 1).  We will focus on products that are alkyl halides and alcohols.  Hydrogen adds to one carbon of the alkene and "X" (I, Br, Cl, or OH) adds to the other.  We will limit our discussion in this PLA to symmetric alkenes.  In symmetric alkenes, either way H and X add gives the same product.
 
-[ciscode|rev=1|tool=elmsmedia|item=4250|entity_type=node|render=display_mode|display_mode=mediavideo]  
+
+Here is a specific example:
+
+
+
+_Which reactant is the nucleophile and which is the electrophile?_ (Reflect on PLA16)
+
