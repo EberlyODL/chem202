@@ -12,5 +12,5 @@ Here is a specific example:
 
 _Which reactant is the nucleophile and which is the electrophile?_  Draw the mechanism! (Reflect on PLA16)
 
-You should have found a carbocation intermediate in your mechanism.  Carbocations have a formal positive charge.  We will discuss the stability of various types of carbocations in detail during class.  For now, I want you to practice identifying types of carbocations.  We will classify carbocations based on the number of alkyl groups attached.  Primary carbocations have one bond to another carbon. Secondary carbocations have two bonds to another carbon.  Finally, tertiary carbocations have three carbon groups attached. (See Figure 3.)
+You should have found a carbocation intermediate in your mechanism.  Carbocations have a formal positive charge.  We will discuss the stability of various types of carbocations in detail during class.  For now, I want you to practice identifying types of carbocations.  We will classify carbocations based on the number of alkyl groups attached.  Primary carbocations have one bond to another carbon. Secondary carbocations have two bonds to other carbons.  Finally, tertiary carbocations have three carbon groups attached. (See Figure 3.)  Carbocations on an $$sp^2$$ hybridized center (vinyl or aryl) are too high in energy and we will not consider them.
 
