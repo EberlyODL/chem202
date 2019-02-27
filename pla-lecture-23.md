@@ -2,4 +2,4 @@
 
 Each question is bookmarked so you can navigate to a specific question easily. Simply click the "bookmark" icon to the right of the play button.
 
-Coming soon!
+[ciscode|rev=1|tool=elmsmedia|item=4893|entity_type=node|render=display_mode|display_mode=h5p]
