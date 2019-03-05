@@ -1,21 +1,28 @@
-# Naming ethers and sulfides
+# Substitution and Elimination Reactions
 
-We will be synthesizing new functional groups via substitution reactions in the first two class sessions this week.
+Substitution involves replacing a leaving group with a nucleophile and elimination removes H and a leaving group to form an alkene.  Both types of reactions require a good leaving group.  Good leaving groups are very weak bases (pKa conjugate acid < 0).  What are some examples of good leaving groups?
 
-The prelecture content will focus on naming these functional groups so you know the language in order to speak fluently throughout the rest of the course.  We'll also be incorporating some review of reactions and mechanism to keep it fresh in your mind. If you struggle with this portion, please reach out!
+In class, we have seen examples of alcohols undergoing Sn1 and E1 reactions.  The names of these reactions come from experimental evidence that supports the mechanism.  Substitution (S), elimination (E), and the 1 because it is *unimolecular*, meaning that one molecule is involved in the rate-determining step.  
 
-Ethers and sulfides are named two different ways.  One is according to a common nomenclature system or the IUPAC (International Union of Pure and Applied Chemistry) system.  Both systems are used, so I provide an overview of both below.
+What we know:
+- Kinetics experiments show that the rate law depends only on alcohol concentration
+- Sn1 and E1 reactions proceed fastest at tertiary centers (supports carbocation formation).
+- Sn1 products are a mixture of stereoisomers when the alcohol is at a chiral center (also supports carbocation formation; the geometry is trigonal planar and attack can occur from the front or back).
+- E1 products are regioselective for the more-substituted alkene and stereoselective for the _E_ alkene (connect to PLA 21).
 
-Ethers contain a C-O-C arrangement while sulfides are the sulfur analogs with a C-S-C arrangement of atoms.  The common system is quite simple.  Name the two alkyl groups on either side followed by the name "ether" or "sulfide."  The alkyl groups are listed alphabetically.  In the case where the two alkyl groups are identical, the prefix "di-" is used in front of the name.  Only use the common names when both alkyl groups are simple (e.g. ethyl, tert-butyl, pentyl, cyclohexyl, etc.).  Examples are shown below:
+Based on the above data, it is proposed that the mechanism goes through a carbocation intermediate and formation of the cation is the the rate-determining step.    Review your class notes for these mechanisms or Section 9.2 (Sn1) and 9.4 (E1) of the text.  Be sure to consider the reactivity trends with respect to alcohol substitution and how this makes sense with the proposed mechanism.
 
+Now, we will consider how the above reactions (Sn1 and E1) as well as Sn2 and E2 reactions look with respect to alkyl halides as reactants.  
 
-In the IUPAC system, ethers and sulfides are named as substituents on the parent chain just like alkyl branches or halides.  After you identify the longest continuous chain, name any ether substituents as "alkoxy."  The number of carbons in the substituent identifies the specific name.  For example, 1 carbon would be a methoxy group ($$ROCH_3$$).  For sulfides, the general name is "alkylthio" group.  A two carbon sulfide group ($$RSCH_2CH_3$$) would be "ethylthio."  
+The same trends as above are seen with alkyl halides under Sn1/E1 conditions.  
 
+However, a two other reaction pathways are possible depending on conditions: Sn2 and E2.  The "2" comes from the fact that the reaction is bimolecular, meaning that two molecules are involved in the rate determining step.
 
-A few examples are highlighted in the videos below.  Head back to Canvas to test yourself with the question set!
+What we know from experiments:
+- Kinetics experiments show that the rate law depends only on both concentration of alkyl halide and nucleophile/base.
+- Sn2 reactions proceed fastest at primary centers and do not go at all at tertiary centers (page 267).
+- When the halide is at a chiral center, only one stereoisomer is produced (p.269).
+- E2 products are regioselective for the more-substituted alkene and stereoselective for the _E_ alkene (connect to PLA 21).
 
-[ciscode|rev=1|tool=elmsmedia|item=4279|entity_type=node|render=display_mode|display_mode=mediavideo]
-
-[ciscode|rev=1|tool=elmsmedia|item=4278|entity_type=node|render=display_mode|display_mode=mediavideo]
-
+It is proposed that the Sn2 and E2 mechanisms are each one step where substitution or elimination occur at the same time as loss of a leaving group (pages 266 and 282).
 
