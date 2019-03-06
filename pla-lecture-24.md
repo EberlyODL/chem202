@@ -20,7 +20,7 @@ Now, we will consider how the above reactions (Sn1 and E1) as well as Sn2 and E2
 
 The same trends as above are seen with alkyl halides under Sn1/E1 conditions. See sections 8.3-4 and pages 282-283.
 
-However, a two other reaction pathways are possible depending on conditions: Sn2 and E2. The "2" comes from the fact that the reaction is bimolecular, meaning that two molecules are involved in the rate determining step.
+However, two other reaction pathways are possible depending on conditions: Sn2 and E2. The "2" comes from the fact that the reaction is bimolecular, meaning that two molecules are involved in the rate determining step.
 
 What we know from experiments:
 
