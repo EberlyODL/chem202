@@ -12,6 +12,6 @@ It will be important for us to classify nucleophiles based on their basicity.  W
 
 - Strong bases (conjugate acid pKa > 11)
 
-For example, F$$^-$$ would be classified as a weak base because it has a conjugate acid with a pKa of 3.2 (weak acid).
+For example, F$$^-$$ would be classified as a weak base because it has a conjugate acid with a pKa of 3.2 (weak acid).  Similarly CH$$_3^-$$ would be a strong base because its conjugate acid has a pKa of ~60 (very weak acid).
 
 
