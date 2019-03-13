@@ -2,11 +2,9 @@
 
 ## Naming ethers and sulfides
 
-We will be synthesizing new functional groups via substitution reactions in the first two class sessions this week.
+We are synthesizing new functional groups via substitution reactions, so let's name them.  Wooohooo!  The prelecture content will focus on naming these functional groups so you know the language in order to speak fluently throughout the rest of the course. 
 
-The prelecture content will focus on naming these functional groups so you know the language in order to speak fluently throughout the rest of the course. We'll also be incorporating some review of reactions and mechanism to keep it fresh in your mind. If you struggle with this portion, please reach out!
-
-Ethers and sulfides are named two different ways. One is according to a common nomenclature system or the IUPAC (International Union of Pure and Applied Chemistry) system. Both systems are used, so I provide an overview of both below.
+Ethers and sulfides are named two different ways. One is according to a common nomenclature system and the other the IUPAC (International Union of Pure and Applied Chemistry) system. Both systems are used, so I provide an overview of both below.
 
 Ethers contain a C-O-C arrangement while sulfides are the sulfur analogs with a C-S-C arrangement of atoms. The common system is quite simple. Name the two alkyl groups on either side followed by the name "ether" or "sulfide." The alkyl groups are listed alphabetically. In the case where the two alkyl groups are identical, the prefix "di-" is used in front of the name. Only use the common names when both alkyl groups are simple (e.g. ethyl, tert-butyl, pentyl, cyclohexyl, etc.). Examples are shown below:
 
@@ -24,7 +22,7 @@ A few examples are highlighted in the videos below. Head back to Canvas to test 
 
 ## Naming amines and thiols
 
-We have reached a point where we need to consider the priority of different functional groups in the name. When multiple functional groups are present, what group will be the principle group and assigned higher priority?
+We have reached a point where we need to consider the priority of different functional groups in the name. When multiple functional groups are present, certain groups will be the "principle group" and assigned higher priority.  (This table will be provided for your convenience on quizzes.)
 
 | Group \(Highest-->lowest\) | Suffix | As substituent |
 | :--- | :--- | :--- |
