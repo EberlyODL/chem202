@@ -20,8 +20,11 @@ Which of the following is the correct electron configuration for a neutral bromi
 # Classification of Electrons
 
 Electrons within an atom can be classified into three categories:
+
 * Inner (core) electrons
+
 * Outer electrons
+
 * Valence electrons
 
 It will soon be important to identify types of electrons, especially those that are valence, because those are used in bonding.
