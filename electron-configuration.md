@@ -3,6 +3,12 @@
 
 # Orbital Filling
 
+# Introduction to Bonding
+**Learning Objectives:** _After this lesson, you should be able to…_
+
+* Write the electron configuration of neutral atoms and ions.
+* Identify core, outer, and valence electrons. 
+
 There are a series of rules that are followed when placing electrons into orbitals to give the ground state (most stable) electron configuration of an atom.  
 
 [ciscode|rev=1|tool=elmsmedia|item=3322|entity_type=node|render=display_mode|display_mode=h5p]
