@@ -3,7 +3,6 @@
 
 # Orbital Filling
 
-# Introduction to Bonding
 **Learning Objectives:** _After this lesson, you should be able to…_
 
 * Write the electron configuration of neutral atoms and ions.
