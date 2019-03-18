@@ -57,6 +57,8 @@ Thiols will be named in a similar manner to alcohols and amines. The IUPAC syste
 [ciscode|rev=1|tool=elmsmedia|item=4282|entity_type=node|render=display_mode|display_mode=image]
 [ciscode|rev=1|tool=elmsmedia|item=4283|entity_type=node|render=display_mode|display_mode=image]
 
+[ciscode|rev=1|tool=elmsmedia|item=4923|entity_type=node|render=display_mode|display_mode=mediavideo]
+
 Head to canvas to test yourself with some basic examples! 
 
 
