@@ -5,7 +5,7 @@ Look at that - we're going to talk about stability AGAIN!!!
 
 Why???  Because stability explains A LOT of things in organic chemistry!  And organic chemistry is all around us (even IN us!!!).
 
-Radicals are intermediates in a chemical reaction like carbocations or carbanions.  They don't exist for a long time and they are highly reactive. Radicals, however, are neutral and have a single, unpaired electron. 
+Radicals are intermediates in a chemical reaction like carbocations or carbanions.  They don't exist for a long time and they are highly reactive. Radicals, however, are neutral and have a single, unpaired electron.
 
 Carbon radicals can be classified in the same way as carbocations: primary, secondary, or tertiary.  When radicals are next to alkenes or benzene rings, they can also be termed allylic or benzyllic.
 
