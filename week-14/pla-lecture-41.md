@@ -1,6 +1,6 @@
 # Radical Reactions & Selectivity
 
-Review your class notes from Monday.  You need to be able to identify mechanistic steps as initiation, propagation, and termination and determine the major product of a radical halogenation reaction based on an understanding of radial stability.
+Review your class notes from Wednesday.  You need to be able to identify mechanistic steps as initiation, propagation, and termination and determine the major product of a radical halogenation reaction based on an understanding of radial stability.
 
 
 # Polymers
