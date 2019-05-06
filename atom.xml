@@ -1,20 +1,1064 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>chem202</title>
+  <title>Summary</title>
   <link href="/atom.xml" rel="self" />
   <subtitle></subtitle>
-  <updated>2019-05-06T08:07:49-06:00</updated>
+  <updated>2019-05-06T08:08:03-06:00</updated>
   <author>
       <name></name>
   </author>
   <id>/feed</id>
   <entry>
-    <title>New page</title>
-    <id>/item-a7246797-9257-41ce-a753-1a15320b1cc2</id>
-    <updated>2019-05-06T08:07:49-06:00</updated>
-    <published>2019-05-06T08:07:49-06:00</published>
+    <title>Organic Foundations</title>
+    <id>/README</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
     <summary></summary>
-    <link href="/item-a7246797-9257-41ce-a753-1a15320b1cc2"/>
+    <link href="/README"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Atomic Structure</title>
+    <id>/atomic-structure</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/atomic-structure"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Orbitals</title>
+    <id>/orbitals</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/orbitals"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Electron Configuration</title>
+    <id>/electron-configuration</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/electron-configuration"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Chemical Bonds</title>
+    <id>/chemical-bonds</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/chemical-bonds"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Introduction to Bonding</title>
+    <id>/introduction-to-bonding</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/introduction-to-bonding"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Ionic Compounds</title>
+    <id>/ionic-compounds</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/ionic-compounds"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Covalent Bonding</title>
+    <id>/covalent-bonding</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/covalent-bonding"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Bond Polarity and Electronegativity</title>
+    <id>/bond-polarity-and-electronegativity</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/bond-polarity-and-electronegativity"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Valence Bond Theory</title>
+    <id>/valence-bond-theory</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/valence-bond-theory"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Hybridization</title>
+    <id>/hybridization</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/hybridization"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Drawing Structures</title>
+    <id>/drawing-structures</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/drawing-structures"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Formal Charge</title>
+    <id>/formal-charge</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/formal-charge"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Drawing Lewis Structures</title>
+    <id>/drawing-lewis-structures</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/drawing-lewis-structures"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Exceptions to the Octet Rule</title>
+    <id>/exceptions-to-the-octet-rule</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/exceptions-to-the-octet-rule"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Resonance</title>
+    <id>/resonance</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/resonance"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Molecular Shape</title>
+    <id>/molecular-shape</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/molecular-shape"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>VSEPR Theory</title>
+    <id>/vsepr-theory</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/vsepr-theory"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Molecular Geometry</title>
+    <id>/molecular-geometry</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/molecular-geometry"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Molecular Polarity</title>
+    <id>/molecular-polarity</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/molecular-polarity"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Acids and Bases</title>
+    <id>/acids-and-bases</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/acids-and-bases"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Acid Definition</title>
+    <id>/acids-and-bases/acid-definition</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/acids-and-bases/acid-definition"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Ka and pKa</title>
+    <id>/acids-and-bases/ka-and-pka</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/acids-and-bases/ka-and-pka"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>ARIO Rules</title>
+    <id>/acids-and-bases/ario-rules</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/acids-and-bases/ario-rules"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Acid Reactions</title>
+    <id>/acids-and-bases/acid-reactions</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/acids-and-bases/acid-reactions"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Predicting Equilibrium</title>
+    <id>/acids-and-bases/predicting-equilibrium</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/acids-and-bases/predicting-equilibrium"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Week 1</title>
+    <id>/chapter1</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/chapter1"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 1</title>
+    <id>/chapter1/pla-lecture-1</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/chapter1/pla-lecture-1"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 2</title>
+    <id>/chapter1/pla-lecture-2</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/chapter1/pla-lecture-2"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 3</title>
+    <id>/chapter1/pla-lecture-3</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/chapter1/pla-lecture-3"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Isomers</title>
+    <id>/chapter1/isomers</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/chapter1/isomers"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Week 2</title>
+    <id>/week-2</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/week-2"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA: Curved Arrows</title>
+    <id>/pla-curved-arrows</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/pla-curved-arrows"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 4</title>
+    <id>/pla-lecture-4</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/pla-lecture-4"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 5</title>
+    <id>/pla-lecture-5</id>
+    <updated>2019-05-06T08:57:22-06:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary>HybridizationHybridization is the idea that atomic orbitals (s and p) mix to form hybrid orbitals.  This theory explains some of the experimental measurements of bond lengths and angles in molecule</summary>
+    <link href="/pla-lecture-5"/>
+    
+    <content type="html">
+      <![CDATA[ HybridizationHybridization is the idea that atomic orbitals (s and p) mix to form hybrid orbitals.  This theory explains some of the experimental measurements of bond lengths and angles in molecule ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>More on resonance</title>
+    <id>/more-on-resonance</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/more-on-resonance"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Week 3</title>
+    <id>/week-3</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/week-3"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 6</title>
+    <id>/week-3/pla-lecture-6</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/week-3/pla-lecture-6"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 7</title>
+    <id>/week-3/pla-lecture-7</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/week-3/pla-lecture-7"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 8</title>
+    <id>/week-3/pla-lecture-8</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/week-3/pla-lecture-8"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Week 4</title>
+    <id>/week-4</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/week-4"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 9</title>
+    <id>/pla-lecture-9</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/pla-lecture-9"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 10</title>
+    <id>/pla-lecture-10</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/pla-lecture-10"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 11</title>
+    <id>/pla-lecture-11</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/pla-lecture-11"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Week 5</title>
+    <id>/week-5</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/week-5"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 12</title>
+    <id>/pla-lecture-12</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/pla-lecture-12"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 13</title>
+    <id>/pla-lecture-13</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/pla-lecture-13"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 14</title>
+    <id>/pla-lecture-14</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/pla-lecture-14"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Week 6</title>
+    <id>/week-6</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/week-6"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 15</title>
+    <id>/pla-lecture-15</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/pla-lecture-15"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 16</title>
+    <id>/pla-lecture-16</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/pla-lecture-16"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 17</title>
+    <id>/pla-lecture-17</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/pla-lecture-17"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Week 7</title>
+    <id>/week-7</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/week-7"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 18</title>
+    <id>/pla-lecture-18</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/pla-lecture-18"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 19</title>
+    <id>/pla-lecture-19</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/pla-lecture-19"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 20</title>
+    <id>/pla-lecture-20</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/pla-lecture-20"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Week 8</title>
+    <id>/week-8</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/week-8"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 21</title>
+    <id>/pla-lecture-21</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/pla-lecture-21"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 22</title>
+    <id>/pla-lecture-22</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/pla-lecture-22"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 23</title>
+    <id>/pla-lecture-23</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/pla-lecture-23"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Week 9</title>
+    <id>/week-9</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/week-9"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 24</title>
+    <id>/pla-lecture-24</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/pla-lecture-24"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 25</title>
+    <id>/pla-lecture-25</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/pla-lecture-25"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 26</title>
+    <id>/pla-lecture-26</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/pla-lecture-26"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Week 10</title>
+    <id>/week-10</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/week-10"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 27</title>
+    <id>/week-10/pla-lecture-27</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/week-10/pla-lecture-27"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 28</title>
+    <id>/week-10/pla-lecture-28</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/week-10/pla-lecture-28"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 29</title>
+    <id>/week-10/pla-lecture-29</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/week-10/pla-lecture-29"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Week 11</title>
+    <id>/week-11</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/week-11"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 30</title>
+    <id>/week-11/pla-lecture-30</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/week-11/pla-lecture-30"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 31</title>
+    <id>/week-11/pla-lecture-31</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/week-11/pla-lecture-31"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 32</title>
+    <id>/week-11/pla-lecture-32</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/week-11/pla-lecture-32"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Week 12</title>
+    <id>/week-12</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/week-12"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 33</title>
+    <id>/pla-lecture-33</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/pla-lecture-33"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 34</title>
+    <id>/pla-lecture-34</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/pla-lecture-34"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 35</title>
+    <id>/pla-lecture-35</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/pla-lecture-35"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Week 13</title>
+    <id>/week-13</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/week-13"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 36</title>
+    <id>/pla-lecture-36</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/pla-lecture-36"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 37</title>
+    <id>/pla-lecture-37</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/pla-lecture-37"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 38</title>
+    <id>/pla-lecture-38</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/pla-lecture-38"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Week 14</title>
+    <id>/week-14</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/week-14"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 39</title>
+    <id>/week-14/pla-lecture-39</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/week-14/pla-lecture-39"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 40</title>
+    <id>/week-14/pla-lecture-40</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/week-14/pla-lecture-40"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 41</title>
+    <id>/week-14/pla-lecture-41</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/week-14/pla-lecture-41"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Week 15</title>
+    <id>/week-15</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/week-15"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 42</title>
+    <id>/week-15/pla-lecture-42</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/week-15/pla-lecture-42"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 43</title>
+    <id>/week-15/pla-lecture-43</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/week-15/pla-lecture-43"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>PLA Lecture 44</title>
+    <id>/week-15/pla-lecture-44</id>
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <published>1969-12-31T17:00:00-07:00</published>
+    <summary></summary>
+    <link href="/week-15/pla-lecture-44"/>
     
     <content type="html">
       <![CDATA[  ]]>

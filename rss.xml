@@ -1,21 +1,891 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>chem202</title>
+    <title>Summary</title>
     <link>/rss.xml</link>
     <description></description>
     <copyright>Copyright (C) 2019 </copyright>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 May 2019 08:07:49 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2019 08:08:03 -0600</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>New page</title>
-      <link>/item-a7246797-9257-41ce-a753-1a15320b1cc2</link>
+      <title>Organic Foundations</title>
+      <link>/README</link>
       <description>
           <![CDATA[  ]]>
       </description>
       <category></category>
-      <guid>/item-a7246797-9257-41ce-a753-1a15320b1cc2</guid>
+      <guid>/README</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Atomic Structure</title>
+      <link>/atomic-structure</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/atomic-structure</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Orbitals</title>
+      <link>/orbitals</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/orbitals</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Electron Configuration</title>
+      <link>/electron-configuration</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/electron-configuration</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Chemical Bonds</title>
+      <link>/chemical-bonds</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/chemical-bonds</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Introduction to Bonding</title>
+      <link>/introduction-to-bonding</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/introduction-to-bonding</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Ionic Compounds</title>
+      <link>/ionic-compounds</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/ionic-compounds</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Covalent Bonding</title>
+      <link>/covalent-bonding</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/covalent-bonding</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Bond Polarity and Electronegativity</title>
+      <link>/bond-polarity-and-electronegativity</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/bond-polarity-and-electronegativity</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Valence Bond Theory</title>
+      <link>/valence-bond-theory</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/valence-bond-theory</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Hybridization</title>
+      <link>/hybridization</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/hybridization</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Drawing Structures</title>
+      <link>/drawing-structures</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/drawing-structures</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Formal Charge</title>
+      <link>/formal-charge</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/formal-charge</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Drawing Lewis Structures</title>
+      <link>/drawing-lewis-structures</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/drawing-lewis-structures</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Exceptions to the Octet Rule</title>
+      <link>/exceptions-to-the-octet-rule</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/exceptions-to-the-octet-rule</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Resonance</title>
+      <link>/resonance</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/resonance</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Molecular Shape</title>
+      <link>/molecular-shape</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/molecular-shape</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>VSEPR Theory</title>
+      <link>/vsepr-theory</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/vsepr-theory</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Molecular Geometry</title>
+      <link>/molecular-geometry</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/molecular-geometry</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Molecular Polarity</title>
+      <link>/molecular-polarity</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/molecular-polarity</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Acids and Bases</title>
+      <link>/acids-and-bases</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/acids-and-bases</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Acid Definition</title>
+      <link>/acids-and-bases/acid-definition</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/acids-and-bases/acid-definition</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Ka and pKa</title>
+      <link>/acids-and-bases/ka-and-pka</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/acids-and-bases/ka-and-pka</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>ARIO Rules</title>
+      <link>/acids-and-bases/ario-rules</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/acids-and-bases/ario-rules</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Acid Reactions</title>
+      <link>/acids-and-bases/acid-reactions</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/acids-and-bases/acid-reactions</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Predicting Equilibrium</title>
+      <link>/acids-and-bases/predicting-equilibrium</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/acids-and-bases/predicting-equilibrium</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Week 1</title>
+      <link>/chapter1</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/chapter1</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 1</title>
+      <link>/chapter1/pla-lecture-1</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/chapter1/pla-lecture-1</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 2</title>
+      <link>/chapter1/pla-lecture-2</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/chapter1/pla-lecture-2</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 3</title>
+      <link>/chapter1/pla-lecture-3</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/chapter1/pla-lecture-3</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Isomers</title>
+      <link>/chapter1/isomers</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/chapter1/isomers</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Week 2</title>
+      <link>/week-2</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/week-2</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA: Curved Arrows</title>
+      <link>/pla-curved-arrows</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/pla-curved-arrows</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 4</title>
+      <link>/pla-lecture-4</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/pla-lecture-4</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 5</title>
+      <link>/pla-lecture-5</link>
+      <description>
+          <![CDATA[ HybridizationHybridization is the idea that atomic orbitals (s and p) mix to form hybrid orbitals.  This theory explains some of the experimental measurements of bond lengths and angles in molecule ]]>
+      </description>
+      <category></category>
+      <guid>/pla-lecture-5</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>More on resonance</title>
+      <link>/more-on-resonance</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/more-on-resonance</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Week 3</title>
+      <link>/week-3</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/week-3</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 6</title>
+      <link>/week-3/pla-lecture-6</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/week-3/pla-lecture-6</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 7</title>
+      <link>/week-3/pla-lecture-7</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/week-3/pla-lecture-7</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 8</title>
+      <link>/week-3/pla-lecture-8</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/week-3/pla-lecture-8</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Week 4</title>
+      <link>/week-4</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/week-4</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 9</title>
+      <link>/pla-lecture-9</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/pla-lecture-9</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 10</title>
+      <link>/pla-lecture-10</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/pla-lecture-10</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 11</title>
+      <link>/pla-lecture-11</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/pla-lecture-11</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Week 5</title>
+      <link>/week-5</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/week-5</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 12</title>
+      <link>/pla-lecture-12</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/pla-lecture-12</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 13</title>
+      <link>/pla-lecture-13</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/pla-lecture-13</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 14</title>
+      <link>/pla-lecture-14</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/pla-lecture-14</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Week 6</title>
+      <link>/week-6</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/week-6</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 15</title>
+      <link>/pla-lecture-15</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/pla-lecture-15</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 16</title>
+      <link>/pla-lecture-16</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/pla-lecture-16</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 17</title>
+      <link>/pla-lecture-17</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/pla-lecture-17</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Week 7</title>
+      <link>/week-7</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/week-7</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 18</title>
+      <link>/pla-lecture-18</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/pla-lecture-18</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 19</title>
+      <link>/pla-lecture-19</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/pla-lecture-19</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 20</title>
+      <link>/pla-lecture-20</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/pla-lecture-20</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Week 8</title>
+      <link>/week-8</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/week-8</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 21</title>
+      <link>/pla-lecture-21</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/pla-lecture-21</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 22</title>
+      <link>/pla-lecture-22</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/pla-lecture-22</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 23</title>
+      <link>/pla-lecture-23</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/pla-lecture-23</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Week 9</title>
+      <link>/week-9</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/week-9</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 24</title>
+      <link>/pla-lecture-24</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/pla-lecture-24</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 25</title>
+      <link>/pla-lecture-25</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/pla-lecture-25</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 26</title>
+      <link>/pla-lecture-26</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/pla-lecture-26</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Week 10</title>
+      <link>/week-10</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/week-10</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 27</title>
+      <link>/week-10/pla-lecture-27</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/week-10/pla-lecture-27</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 28</title>
+      <link>/week-10/pla-lecture-28</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/week-10/pla-lecture-28</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 29</title>
+      <link>/week-10/pla-lecture-29</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/week-10/pla-lecture-29</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Week 11</title>
+      <link>/week-11</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/week-11</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 30</title>
+      <link>/week-11/pla-lecture-30</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/week-11/pla-lecture-30</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 31</title>
+      <link>/week-11/pla-lecture-31</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/week-11/pla-lecture-31</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 32</title>
+      <link>/week-11/pla-lecture-32</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/week-11/pla-lecture-32</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Week 12</title>
+      <link>/week-12</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/week-12</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 33</title>
+      <link>/pla-lecture-33</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/pla-lecture-33</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 34</title>
+      <link>/pla-lecture-34</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/pla-lecture-34</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 35</title>
+      <link>/pla-lecture-35</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/pla-lecture-35</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Week 13</title>
+      <link>/week-13</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/week-13</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 36</title>
+      <link>/pla-lecture-36</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/pla-lecture-36</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 37</title>
+      <link>/pla-lecture-37</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/pla-lecture-37</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 38</title>
+      <link>/pla-lecture-38</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/pla-lecture-38</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Week 14</title>
+      <link>/week-14</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/week-14</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 39</title>
+      <link>/week-14/pla-lecture-39</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/week-14/pla-lecture-39</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 40</title>
+      <link>/week-14/pla-lecture-40</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/week-14/pla-lecture-40</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 41</title>
+      <link>/week-14/pla-lecture-41</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/week-14/pla-lecture-41</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Week 15</title>
+      <link>/week-15</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/week-15</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 42</title>
+      <link>/week-15/pla-lecture-42</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/week-15/pla-lecture-42</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 43</title>
+      <link>/week-15/pla-lecture-43</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/week-15/pla-lecture-43</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>PLA Lecture 44</title>
+      <link>/week-15/pla-lecture-44</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/week-15/pla-lecture-44</guid>
       <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
     </item>
   </channel>
