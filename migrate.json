@@ -1,0 +1,16 @@
+{
+  "regex": [
+    {
+      "pattern": "&lt;",
+      "replacement": "<"
+    },
+    {
+      "pattern": "&gt;",
+      "replacement": ">"
+    },
+    {
+      "pattern": "&quot;",
+      "replacement": "\""
+    }
+  ]
+}
