@@ -1,6 +1,6 @@
 {
     "id": "1dd26d36-d029-491e-ac4a-e6afbe3d6e42",
-    "title": "Summary",
+    "title": "Chem202",
     "author": "",
     "description": "",
     "license": "by-sa",
@@ -62,619 +62,619 @@
     },
     "items": [
         {
-            "id": "fOYTYIuUKO56mtbjS12Qp2NP6JCouiRl",
+            "id": "T7rqK0tYpALF77mfIuJFr4a5BhQOvosy",
             "location": "pages/README/index.html",
             "title": "Organic Foundations",
             "parent": null,
             "order": 0
         },
         {
-            "id": "SVbhSbSjSWrLT9AwGfl3Od7XpFvMh8nc",
+            "id": "4a9bW1HCQELDPpDLgc3wC3vlPTGJ4mNz",
             "location": "pages/atomic-structure/index.html",
             "title": "Atomic Structure",
-            "parent": "fOYTYIuUKO56mtbjS12Qp2NP6JCouiRl",
+            "parent": "T7rqK0tYpALF77mfIuJFr4a5BhQOvosy",
             "order": 0
         },
         {
-            "id": "QBib3QyKwtIzb9yQhJjpLOl61X7FEM9S",
+            "id": "hjF4EPX2RT47Y9fZSTGX0VnqYaFBZ1fJ",
             "location": "pages/orbitals/index.html",
             "title": "Orbitals",
-            "parent": "fOYTYIuUKO56mtbjS12Qp2NP6JCouiRl",
+            "parent": "T7rqK0tYpALF77mfIuJFr4a5BhQOvosy",
             "order": 1
         },
         {
-            "id": "hCqYxLys6wxAv8vt9VR6lgnCtxhqPiF8",
+            "id": "mwnYZOfe5oFzk6DE2cALKy8ArPpFgD6D",
             "location": "pages/electron-configuration/index.html",
             "title": "Electron Configuration",
-            "parent": "fOYTYIuUKO56mtbjS12Qp2NP6JCouiRl",
+            "parent": "T7rqK0tYpALF77mfIuJFr4a5BhQOvosy",
             "order": 2
         },
         {
-            "id": "PJq3yN9YlmUrhBg2pgpzEffckKoFi9qb",
+            "id": "mlxK7f3jYTdKtgbifeCVxhwZdIRthYcb",
             "location": "pages/chemical-bonds/index.html",
             "title": "Chemical Bonds",
-            "parent": "fOYTYIuUKO56mtbjS12Qp2NP6JCouiRl",
+            "parent": "T7rqK0tYpALF77mfIuJFr4a5BhQOvosy",
             "order": 3
         },
         {
-            "id": "0sibz9V7WjsW96FVpAb5OmSynoJhuLlO",
+            "id": "qX0M1etAUxEjPl04Cud7cPCQrvVAdy7t",
             "location": "pages/introduction-to-bonding/index.html",
             "title": "Introduction to Bonding",
-            "parent": "fOYTYIuUKO56mtbjS12Qp2NP6JCouiRl",
+            "parent": "T7rqK0tYpALF77mfIuJFr4a5BhQOvosy",
             "order": 4
         },
         {
-            "id": "J8cTYgdauJVf7bKtGmWTFEYaIb2njCs9",
+            "id": "0SmJ5PKxXlBMKD12PuD78qOkaAAQgJS1",
             "location": "pages/ionic-compounds/index.html",
             "title": "Ionic Compounds",
-            "parent": "fOYTYIuUKO56mtbjS12Qp2NP6JCouiRl",
+            "parent": "T7rqK0tYpALF77mfIuJFr4a5BhQOvosy",
             "order": 5
         },
         {
-            "id": "cQSCbXQTPsAsvIXknmlbHWDAfKEMs6S2",
+            "id": "AqkRRjiDYfm65dtzX8mzq0852qONzhwo",
             "location": "pages/covalent-bonding/index.html",
             "title": "Covalent Bonding",
-            "parent": "fOYTYIuUKO56mtbjS12Qp2NP6JCouiRl",
+            "parent": "T7rqK0tYpALF77mfIuJFr4a5BhQOvosy",
             "order": 6
         },
         {
-            "id": "Pnj97OiFXLh0t7jN4wktRHYTlPVN9aMe",
+            "id": "pVQOM131NdrGOYXy13kvEM95jrfiZ9qq",
             "location": "pages/bond-polarity-and-electronegativity/index.html",
             "title": "Bond Polarity and Electronegativity",
-            "parent": "fOYTYIuUKO56mtbjS12Qp2NP6JCouiRl",
+            "parent": "T7rqK0tYpALF77mfIuJFr4a5BhQOvosy",
             "order": 7
         },
         {
-            "id": "0i0xiJAQQenZqCXM5UhcmSFTByYSHAZN",
+            "id": "31l0yrP7iDi7qqxR5t2Hhx2KyUpFsAZ9",
             "location": "pages/valence-bond-theory/index.html",
             "title": "Valence Bond Theory",
-            "parent": "fOYTYIuUKO56mtbjS12Qp2NP6JCouiRl",
+            "parent": "T7rqK0tYpALF77mfIuJFr4a5BhQOvosy",
             "order": 8
         },
         {
-            "id": "UMamqj8FcJSZ1dnFgLtCeaSB7yAtJG4j",
+            "id": "fYbYqkRc0tsAE38EUF3tjXczcdERRjLz",
             "location": "pages/hybridization/index.html",
             "title": "Hybridization",
-            "parent": "fOYTYIuUKO56mtbjS12Qp2NP6JCouiRl",
+            "parent": "T7rqK0tYpALF77mfIuJFr4a5BhQOvosy",
             "order": 9
         },
         {
-            "id": "sJQFsNDkHB33yudrcgck5NKTALftL79c",
+            "id": "PlH9KwqDPNVe6YdsXTxZWFAUlpJV9jjC",
             "location": "pages/drawing-structures/index.html",
             "title": "Drawing Structures",
-            "parent": "fOYTYIuUKO56mtbjS12Qp2NP6JCouiRl",
+            "parent": "T7rqK0tYpALF77mfIuJFr4a5BhQOvosy",
             "order": 10
         },
         {
-            "id": "dIOG509XiPCwJwwiWjrqrOCHmMBC2OxJ",
+            "id": "aCD96Se3UL8NkJPM6QULObFqaw6WOg2o",
             "location": "pages/formal-charge/index.html",
             "title": "Formal Charge",
-            "parent": "fOYTYIuUKO56mtbjS12Qp2NP6JCouiRl",
+            "parent": "T7rqK0tYpALF77mfIuJFr4a5BhQOvosy",
             "order": 11
         },
         {
-            "id": "4d187WtIsq7d9pCPo2AX1gkYEgJKg85O",
+            "id": "QcePwz3fdjXCIbxZX5wEUFHGLGa3dVOL",
             "location": "pages/drawing-lewis-structures/index.html",
             "title": "Drawing Lewis Structures",
-            "parent": "fOYTYIuUKO56mtbjS12Qp2NP6JCouiRl",
+            "parent": "T7rqK0tYpALF77mfIuJFr4a5BhQOvosy",
             "order": 12
         },
         {
-            "id": "M3mzRoyrp1msfU78CflEW2l1IUwvZlz1",
+            "id": "CIWeql8xUnHF79HQrj0mgCienMkQCXpN",
             "location": "pages/exceptions-to-the-octet-rule/index.html",
             "title": "Exceptions to the Octet Rule",
-            "parent": "fOYTYIuUKO56mtbjS12Qp2NP6JCouiRl",
+            "parent": "T7rqK0tYpALF77mfIuJFr4a5BhQOvosy",
             "order": 13
         },
         {
-            "id": "F6EuYIOCDllGVRVsEQJjWDvcQfYcgpHs",
+            "id": "tZ54JGkv26PfBuNLAu1d7EkSdnwQr5xg",
             "location": "pages/resonance/index.html",
             "title": "Resonance",
-            "parent": "fOYTYIuUKO56mtbjS12Qp2NP6JCouiRl",
+            "parent": "T7rqK0tYpALF77mfIuJFr4a5BhQOvosy",
             "order": 14
         },
         {
-            "id": "as2nq2wcVCqJlw3HPwhUi1vgCRGSRLey",
+            "id": "rBgvTPuuvEtnuQ1lotrhYBReUfR7mhmu",
             "location": "pages/molecular-shape/index.html",
             "title": "Molecular Shape",
-            "parent": "fOYTYIuUKO56mtbjS12Qp2NP6JCouiRl",
+            "parent": "T7rqK0tYpALF77mfIuJFr4a5BhQOvosy",
             "order": 15
         },
         {
-            "id": "KJjMuvoKZPfBjHJ4FinELMBTlD7A8RIs",
+            "id": "Td0ftnS5mOj0fcUHuay9m48QsrTn4uZT",
             "location": "pages/vsepr-theory/index.html",
             "title": "VSEPR Theory",
-            "parent": "fOYTYIuUKO56mtbjS12Qp2NP6JCouiRl",
+            "parent": "T7rqK0tYpALF77mfIuJFr4a5BhQOvosy",
             "order": 16
         },
         {
-            "id": "3XflUHpMpgofG8iuIyywzx66neCaowd9",
+            "id": "9KljVa0Zb5LrWrzOcBWn1JfLuirXG7rh",
             "location": "pages/molecular-geometry/index.html",
             "title": "Molecular Geometry",
-            "parent": "fOYTYIuUKO56mtbjS12Qp2NP6JCouiRl",
+            "parent": "T7rqK0tYpALF77mfIuJFr4a5BhQOvosy",
             "order": 17
         },
         {
-            "id": "sJUZGFKsZpRidaBl7PBzWYipJjarj9ba",
+            "id": "ytaNfWzvEzrQzHdS9CGjhaJhJW43aH7i",
             "location": "pages/molecular-polarity/index.html",
             "title": "Molecular Polarity",
-            "parent": "fOYTYIuUKO56mtbjS12Qp2NP6JCouiRl",
+            "parent": "T7rqK0tYpALF77mfIuJFr4a5BhQOvosy",
             "order": 18
         },
         {
-            "id": "XflIV4Hl2w4YHN0UO2RJxMUBvDAdPURn",
+            "id": "ziGwt1FK30wX702btSV7TdtOQZsujGkt",
             "location": "pages/acids-and-bases/index.html",
             "title": "Acids and Bases",
-            "parent": "fOYTYIuUKO56mtbjS12Qp2NP6JCouiRl",
+            "parent": "T7rqK0tYpALF77mfIuJFr4a5BhQOvosy",
             "order": 19
         },
         {
-            "id": "SaCyF5dlk6aLWuZnWj5tBS5fHLNwty1N",
+            "id": "YBNLF7W4rxFtiJIFChsWHoFD4fbqCBhk",
             "location": "pages/acids-and-bases/acid-definition/index.html",
             "title": "Acid Definition",
-            "parent": "fOYTYIuUKO56mtbjS12Qp2NP6JCouiRl",
+            "parent": "T7rqK0tYpALF77mfIuJFr4a5BhQOvosy",
             "order": 20
         },
         {
-            "id": "LJ1TfzMMPPFTM5xMgPV3ylPIkK2pnqro",
+            "id": "C9NvijPv5pyGSnvlnxAMEK4JUe71GYkN",
             "location": "pages/acids-and-bases/ka-and-pka/index.html",
             "title": "Ka and pKa",
-            "parent": "fOYTYIuUKO56mtbjS12Qp2NP6JCouiRl",
+            "parent": "T7rqK0tYpALF77mfIuJFr4a5BhQOvosy",
             "order": 21
         },
         {
-            "id": "6gAxx7Sa4f7fWKWUzUZiJuFpHYRyzioB",
+            "id": "8NGXcnnl56lMpKhcac2eUjFFbqS1WHJm",
             "location": "pages/acids-and-bases/ario-rules/index.html",
             "title": "ARIO Rules",
-            "parent": "fOYTYIuUKO56mtbjS12Qp2NP6JCouiRl",
+            "parent": "T7rqK0tYpALF77mfIuJFr4a5BhQOvosy",
             "order": 22
         },
         {
-            "id": "UnKmPETLYaqoLH86OqvUrzAosrlSaV2H",
+            "id": "fnNOM4rjk9enj8ciank3DqexdHKnqTvH",
             "location": "pages/acids-and-bases/acid-reactions/index.html",
             "title": "Acid Reactions",
-            "parent": "fOYTYIuUKO56mtbjS12Qp2NP6JCouiRl",
+            "parent": "T7rqK0tYpALF77mfIuJFr4a5BhQOvosy",
             "order": 23
         },
         {
-            "id": "vIiAR8JWIRN6WWyNmN6Ut1a3LDvY65zQ",
+            "id": "teM0aX2fGwltnqfqtkxyAi7naFl2vC7h",
             "location": "pages/acids-and-bases/predicting-equilibrium/index.html",
             "title": "Predicting Equilibrium",
-            "parent": "fOYTYIuUKO56mtbjS12Qp2NP6JCouiRl",
+            "parent": "T7rqK0tYpALF77mfIuJFr4a5BhQOvosy",
             "order": 24
         },
         {
-            "id": "UqdIc8GxLXyNjXk7rQT8dZFWo9atK4aU",
+            "id": "nWn8Ap7O3yN1aC7lOzjz2ZCv4FTBQFYQ",
             "location": "pages/chapter1/index.html",
             "title": "Week 1",
             "parent": null,
             "order": 1
         },
         {
-            "id": "mBWVZVTHvXzDH794L5svzJ1ldvGYVFdO",
+            "id": "yjg7SL0Yhbq7VFdJxMBSZ09XcLiphupp",
             "location": "pages/chapter1/pla-lecture-1/index.html",
             "title": "PLA Lecture 1",
-            "parent": "UqdIc8GxLXyNjXk7rQT8dZFWo9atK4aU",
+            "parent": "nWn8Ap7O3yN1aC7lOzjz2ZCv4FTBQFYQ",
             "order": 0
         },
         {
-            "id": "OtGuOpY9az5FpKaX84jL8UX6B5PVq9Gx",
+            "id": "Nfm1z1X5rfFbTEInHb04zKf5nNWC8VOt",
             "location": "pages/chapter1/pla-lecture-2/index.html",
             "title": "PLA Lecture 2",
-            "parent": "UqdIc8GxLXyNjXk7rQT8dZFWo9atK4aU",
+            "parent": "nWn8Ap7O3yN1aC7lOzjz2ZCv4FTBQFYQ",
             "order": 1
         },
         {
-            "id": "PmEU50NttDeBCZVy5BcqPcJZUeZyXZgX",
+            "id": "i4BJuHnloemsARhfX6NX3Hi8tRWDEBZo",
             "location": "pages/chapter1/pla-lecture-3/index.html",
             "title": "PLA Lecture 3",
-            "parent": "UqdIc8GxLXyNjXk7rQT8dZFWo9atK4aU",
+            "parent": "nWn8Ap7O3yN1aC7lOzjz2ZCv4FTBQFYQ",
             "order": 2
         },
         {
-            "id": "02tx2XnP9wdgmB4oMzjuqCHvFxaYQczD",
+            "id": "EY2v4kLmiu8h4NgFSepWgcLTttFC2EJB",
             "location": "pages/chapter1/isomers/index.html",
             "title": "Isomers",
-            "parent": "UqdIc8GxLXyNjXk7rQT8dZFWo9atK4aU",
+            "parent": "nWn8Ap7O3yN1aC7lOzjz2ZCv4FTBQFYQ",
             "order": 3
         },
         {
-            "id": "LLWDnHvjjnduav3jUgNBZsq4MTpNOjtJ",
+            "id": "rFfX5fmvyZkTWBckkhTYWkZ9jRttKZ5S",
             "location": "pages/week-2/index.html",
             "title": "Week 2",
             "parent": null,
             "order": 2
         },
         {
-            "id": "QZn9jMPHhQVKox6ROG0QW13qrN43rBJB",
+            "id": "Fzr6NSbkOdtXa35N018zRlk5cwHWMkow",
             "location": "pages/pla-curved-arrows/index.html",
             "title": "PLA: Curved Arrows",
-            "parent": "LLWDnHvjjnduav3jUgNBZsq4MTpNOjtJ",
+            "parent": "rFfX5fmvyZkTWBckkhTYWkZ9jRttKZ5S",
             "order": 0
         },
         {
-            "id": "B95jyLwdQ81HkctViDnuJOw1un0rvYQq",
+            "id": "g3TEpI1GsFhkPAZK3cMmGJYBYj2hyqby",
             "location": "pages/pla-lecture-4/index.html",
             "title": "PLA Lecture 4",
-            "parent": "LLWDnHvjjnduav3jUgNBZsq4MTpNOjtJ",
+            "parent": "rFfX5fmvyZkTWBckkhTYWkZ9jRttKZ5S",
             "order": 1
         },
         {
-            "id": "iRAfmE1biiGrH7sk2lj5y7kmLsxVu0VS",
+            "id": "KJoXk0FhPRkP6BgIjcp5m0mTW3ILEoh8",
             "location": "pages/pla-lecture-5/index.html",
             "title": "PLA Lecture 5",
-            "parent": "LLWDnHvjjnduav3jUgNBZsq4MTpNOjtJ",
+            "parent": "rFfX5fmvyZkTWBckkhTYWkZ9jRttKZ5S",
             "order": 2
         },
         {
-            "id": "rx8z6CoB3aWqw4NGe4Kn2iwaM40eI72l",
+            "id": "3LsDxZoYshtcJvjfK38oNuTbiaID2udE",
             "location": "pages/more-on-resonance/index.html",
             "title": "More on resonance",
-            "parent": "LLWDnHvjjnduav3jUgNBZsq4MTpNOjtJ",
+            "parent": "rFfX5fmvyZkTWBckkhTYWkZ9jRttKZ5S",
             "order": 3
         },
         {
-            "id": "pMmsRhfp2wGVI3JI9tML8rCVbcS83A9A",
+            "id": "zvp7oGQP29qVDwSvqYxmDnC4ljkjzFXf",
             "location": "pages/week-3/index.html",
             "title": "Week 3",
             "parent": null,
             "order": 3
         },
         {
-            "id": "frwzp47AYglFdFAm2sO446iWzrMbffkj",
+            "id": "jC55aMRUmMxFuO1qxQ6WNXRzAXSAGE51",
             "location": "pages/week-3/pla-lecture-6/index.html",
             "title": "PLA Lecture 6",
-            "parent": "pMmsRhfp2wGVI3JI9tML8rCVbcS83A9A",
+            "parent": "zvp7oGQP29qVDwSvqYxmDnC4ljkjzFXf",
             "order": 0
         },
         {
-            "id": "ryYlHidb0nBddCTMXsTevjINZiYkOhlO",
+            "id": "bkc8mXcW9fPW2t5rSZB4j4ZTuF3CEryz",
             "location": "pages/week-3/pla-lecture-7/index.html",
             "title": "PLA Lecture 7",
-            "parent": "pMmsRhfp2wGVI3JI9tML8rCVbcS83A9A",
+            "parent": "zvp7oGQP29qVDwSvqYxmDnC4ljkjzFXf",
             "order": 1
         },
         {
-            "id": "2ZH8BsiTIXbiNz9Nx6HWpHiyeZgB8TGg",
+            "id": "CSWRtYb9VohUIdfhZbQ7s23INOQmChvu",
             "location": "pages/week-3/pla-lecture-8/index.html",
             "title": "PLA Lecture 8",
-            "parent": "pMmsRhfp2wGVI3JI9tML8rCVbcS83A9A",
+            "parent": "zvp7oGQP29qVDwSvqYxmDnC4ljkjzFXf",
             "order": 2
         },
         {
-            "id": "Fsj3aoMtIP5V5k13KJ290xZ5GKdynNQS",
+            "id": "7bbf1K7Gs1WHtXSGJFv6LbanL04bFfxK",
             "location": "pages/week-4/index.html",
             "title": "Week 4",
             "parent": null,
             "order": 4
         },
         {
-            "id": "WMqJOvYXpN1TnCzx7AVpPSwEGDNuhnTA",
+            "id": "P1TiI4cqTCeGKz0oSAhoorK9rD33vBhC",
             "location": "pages/pla-lecture-9/index.html",
             "title": "PLA Lecture 9",
-            "parent": "Fsj3aoMtIP5V5k13KJ290xZ5GKdynNQS",
+            "parent": "7bbf1K7Gs1WHtXSGJFv6LbanL04bFfxK",
             "order": 0
         },
         {
-            "id": "N6piudJFSqbxJlkuEjlr0h9jr3pjJIBh",
+            "id": "jC9Sk0ZrD9N2c5AMjnKw2DMbSOA3WPOC",
             "location": "pages/pla-lecture-10/index.html",
             "title": "PLA Lecture 10",
-            "parent": "Fsj3aoMtIP5V5k13KJ290xZ5GKdynNQS",
+            "parent": "7bbf1K7Gs1WHtXSGJFv6LbanL04bFfxK",
             "order": 1
         },
         {
-            "id": "fJR59ox8exuT01uctJPyRQM2nLA6Tj7A",
+            "id": "12ZodeD0PGvqF0w1C0mxah9cbYXdj7Ec",
             "location": "pages/pla-lecture-11/index.html",
             "title": "PLA Lecture 11",
-            "parent": "Fsj3aoMtIP5V5k13KJ290xZ5GKdynNQS",
+            "parent": "7bbf1K7Gs1WHtXSGJFv6LbanL04bFfxK",
             "order": 2
         },
         {
-            "id": "Imf4jHspN9HoQICHRhqrXXA5WDDBNFVE",
+            "id": "Cf5W77lrVRT0FPw9mprOSljTKCvQ9Ifv",
             "location": "pages/week-5/index.html",
             "title": "Week 5",
             "parent": null,
             "order": 5
         },
         {
-            "id": "zK6yLPuERFQT2FOC6pOLYcHtwkUJJFf3",
+            "id": "houhoxksulhS1UVDMSL9CAV12lWeUDVa",
             "location": "pages/pla-lecture-12/index.html",
             "title": "PLA Lecture 12",
-            "parent": "Imf4jHspN9HoQICHRhqrXXA5WDDBNFVE",
+            "parent": "Cf5W77lrVRT0FPw9mprOSljTKCvQ9Ifv",
             "order": 0
         },
         {
-            "id": "ug5etouELG5drwEDhupzYuaMLAHTgv69",
+            "id": "QyqFQCQMrDuw9Th30M1xeVX8II6JY7vw",
             "location": "pages/pla-lecture-13/index.html",
             "title": "PLA Lecture 13",
-            "parent": "Imf4jHspN9HoQICHRhqrXXA5WDDBNFVE",
+            "parent": "Cf5W77lrVRT0FPw9mprOSljTKCvQ9Ifv",
             "order": 1
         },
         {
-            "id": "2JHfqgweA1AhsHAjyJ0WCe9riwRqoRLO",
+            "id": "Mqyaqi9aveQ2cFrsT9rUowIDPgj4gx8F",
             "location": "pages/pla-lecture-14/index.html",
             "title": "PLA Lecture 14",
-            "parent": "Imf4jHspN9HoQICHRhqrXXA5WDDBNFVE",
+            "parent": "Cf5W77lrVRT0FPw9mprOSljTKCvQ9Ifv",
             "order": 2
         },
         {
-            "id": "tlXIb1DqFtxWH4lx8uzS0COScH6Ha86n",
+            "id": "TFJVArhgFguuecGGNGBpNcm4a2Jr2Bxp",
             "location": "pages/week-6/index.html",
             "title": "Week 6",
             "parent": null,
             "order": 6
         },
         {
-            "id": "PlWLlYs7pCMef4CBHANLXZJsm0Ao3b7f",
+            "id": "vjIzTd3NYwcMkBcIpe5LTgEVOq7h1naX",
             "location": "pages/pla-lecture-15/index.html",
             "title": "PLA Lecture 15",
-            "parent": "tlXIb1DqFtxWH4lx8uzS0COScH6Ha86n",
+            "parent": "TFJVArhgFguuecGGNGBpNcm4a2Jr2Bxp",
             "order": 0
         },
         {
-            "id": "g0UfWR2CiceCRTcpHUjVSFWeY2TYZeLV",
+            "id": "YwEbimdwkaEfubfeAqb3chwexsRNdHNC",
             "location": "pages/pla-lecture-16/index.html",
             "title": "PLA Lecture 16",
-            "parent": "tlXIb1DqFtxWH4lx8uzS0COScH6Ha86n",
+            "parent": "TFJVArhgFguuecGGNGBpNcm4a2Jr2Bxp",
             "order": 1
         },
         {
-            "id": "41IAVuHi97PfoIutxqq0HRqM8n9Rxdjz",
+            "id": "z52kd6YUeCt1fmX8XuBBlihciKA9EmK4",
             "location": "pages/pla-lecture-17/index.html",
             "title": "PLA Lecture 17",
-            "parent": "tlXIb1DqFtxWH4lx8uzS0COScH6Ha86n",
+            "parent": "TFJVArhgFguuecGGNGBpNcm4a2Jr2Bxp",
             "order": 2
         },
         {
-            "id": "S3Zrj13EUS8hwZmsxGrqEJPChD7CjUA5",
+            "id": "KKckC52ZEmCPphdJ8Noufjm22bJtZw1T",
             "location": "pages/week-7/index.html",
             "title": "Week 7",
             "parent": null,
             "order": 7
         },
         {
-            "id": "RX9XZp0I2i5k3zJkiAVt3YHZ3bLqylbM",
+            "id": "tlbbV3JFenMIcEEEC2pVlsmkxovV4W3W",
             "location": "pages/pla-lecture-18/index.html",
             "title": "PLA Lecture 18",
-            "parent": "S3Zrj13EUS8hwZmsxGrqEJPChD7CjUA5",
+            "parent": "KKckC52ZEmCPphdJ8Noufjm22bJtZw1T",
             "order": 0
         },
         {
-            "id": "UU88P1lbyO3tuEVItMmMlaXVjvyBZBPt",
+            "id": "5xulfLizjwcf8TcDVjJv1UpbczNtANFv",
             "location": "pages/pla-lecture-19/index.html",
             "title": "PLA Lecture 19",
-            "parent": "S3Zrj13EUS8hwZmsxGrqEJPChD7CjUA5",
+            "parent": "KKckC52ZEmCPphdJ8Noufjm22bJtZw1T",
             "order": 1
         },
         {
-            "id": "Ahx68Pzjd9CTjJSaTwkUqdzH75yOIWMS",
+            "id": "aNgKL0W5CprN8VPKdMjastFr7s2WTsWT",
             "location": "pages/pla-lecture-20/index.html",
             "title": "PLA Lecture 20",
-            "parent": "S3Zrj13EUS8hwZmsxGrqEJPChD7CjUA5",
+            "parent": "KKckC52ZEmCPphdJ8Noufjm22bJtZw1T",
             "order": 2
         },
         {
-            "id": "fV5qbYIXUSfrlLjaMWJnHNcLX8ECxGEf",
+            "id": "aSsywpgvVmAfZYERyVXhFzVV7zKpUVjp",
             "location": "pages/week-8/index.html",
             "title": "Week 8",
             "parent": null,
             "order": 8
         },
         {
-            "id": "eJftDoZ4B4ENkDA763eqLQwoDwFTcfgj",
+            "id": "i96DxvxCXPE2rJiVhau5KfnU1MFLs8Vd",
             "location": "pages/pla-lecture-21/index.html",
             "title": "PLA Lecture 21",
-            "parent": "fV5qbYIXUSfrlLjaMWJnHNcLX8ECxGEf",
+            "parent": "aSsywpgvVmAfZYERyVXhFzVV7zKpUVjp",
             "order": 0
         },
         {
-            "id": "V1C3kqC5ecLqCiBC6u22zsdnqm0zTEZZ",
+            "id": "HjCWe9cxmOWWKvzKwxUteJ1DBAoYOexf",
             "location": "pages/pla-lecture-22/index.html",
             "title": "PLA Lecture 22",
-            "parent": "fV5qbYIXUSfrlLjaMWJnHNcLX8ECxGEf",
+            "parent": "aSsywpgvVmAfZYERyVXhFzVV7zKpUVjp",
             "order": 1
         },
         {
-            "id": "6Vlh6PkKezSgufpQxGruxeavEk2AQzI1",
+            "id": "wARTSTryoAGRXUxSNZ8NF1Vou6yf16Jg",
             "location": "pages/pla-lecture-23/index.html",
             "title": "PLA Lecture 23",
-            "parent": "fV5qbYIXUSfrlLjaMWJnHNcLX8ECxGEf",
+            "parent": "aSsywpgvVmAfZYERyVXhFzVV7zKpUVjp",
             "order": 2
         },
         {
-            "id": "C67fLORAiBU25ApyQVo41keu3uqAWfJ8",
+            "id": "4gU7oCKMctcCLqXt5oEqZlRCuzt55C2B",
             "location": "pages/week-9/index.html",
             "title": "Week 9",
             "parent": null,
             "order": 9
         },
         {
-            "id": "ruKD6Qqa7IVDzO5beIHVYELOhj9yqYIw",
+            "id": "EB9NPBSMs6oS6bfaF3vOJbK9bYhuffEA",
             "location": "pages/pla-lecture-24/index.html",
             "title": "PLA Lecture 24",
-            "parent": "C67fLORAiBU25ApyQVo41keu3uqAWfJ8",
+            "parent": "4gU7oCKMctcCLqXt5oEqZlRCuzt55C2B",
             "order": 0
         },
         {
-            "id": "p9AdfdC1FrV7xjJdZ0pq2uP5EKmyT2Jj",
+            "id": "2zyfLmFfeXvA1JeZDsztVksf1S932qQr",
             "location": "pages/pla-lecture-25/index.html",
             "title": "PLA Lecture 25",
-            "parent": "C67fLORAiBU25ApyQVo41keu3uqAWfJ8",
+            "parent": "4gU7oCKMctcCLqXt5oEqZlRCuzt55C2B",
             "order": 1
         },
         {
-            "id": "vCN4Z6s0dj5EwmfGoCYSbw48hCE6Z9WA",
+            "id": "18HGjcIMRbaYaWVX24VypbP6bITSgIsj",
             "location": "pages/pla-lecture-26/index.html",
             "title": "PLA Lecture 26",
-            "parent": "C67fLORAiBU25ApyQVo41keu3uqAWfJ8",
+            "parent": "4gU7oCKMctcCLqXt5oEqZlRCuzt55C2B",
             "order": 2
         },
         {
-            "id": "cPGi5wft52ujsTh7BeT8hqkYkxl361NQ",
+            "id": "fRrL6uBdXDeytlbL2AHOQETgIbY0nP9i",
             "location": "pages/week-10/index.html",
             "title": "Week 10",
             "parent": null,
             "order": 10
         },
         {
-            "id": "cCGtJe1hdhn8if0O7ltAABj6TCk3ZdAY",
+            "id": "swo34RAwNY8jo5qYQhg0RPMr6MaTgylB",
             "location": "pages/week-10/pla-lecture-27/index.html",
             "title": "PLA Lecture 27",
-            "parent": "cPGi5wft52ujsTh7BeT8hqkYkxl361NQ",
+            "parent": "fRrL6uBdXDeytlbL2AHOQETgIbY0nP9i",
             "order": 0
         },
         {
-            "id": "ZC1ps7CilXtoCOAIGMwrZycoR1iasYF5",
+            "id": "zWdJUCLJsWKWdiKm1rnSug1FTehEk0ng",
             "location": "pages/week-10/pla-lecture-28/index.html",
             "title": "PLA Lecture 28",
-            "parent": "cPGi5wft52ujsTh7BeT8hqkYkxl361NQ",
+            "parent": "fRrL6uBdXDeytlbL2AHOQETgIbY0nP9i",
             "order": 1
         },
         {
-            "id": "jY34JUcqoRtU91aLZ59JOgLfwcYtA0pX",
+            "id": "5uUKxqhn6ocstXoxYL0oWf28TcVSZvqK",
             "location": "pages/week-10/pla-lecture-29/index.html",
             "title": "PLA Lecture 29",
-            "parent": "cPGi5wft52ujsTh7BeT8hqkYkxl361NQ",
+            "parent": "fRrL6uBdXDeytlbL2AHOQETgIbY0nP9i",
             "order": 2
         },
         {
-            "id": "cKth2IpVeYpciekExkLcS72sNHHRJVOO",
+            "id": "C3DWIbwqygVvui4MIetRdqKqNZzwhLtc",
             "location": "pages/week-11/index.html",
             "title": "Week 11",
             "parent": null,
             "order": 11
         },
         {
-            "id": "df8oZyaMSz0vpjNDohZXC85YHyZKk7lG",
+            "id": "AMcipUyNNKFoXzN2WSbQU2j5ZLTYEFsi",
             "location": "pages/week-11/pla-lecture-30/index.html",
             "title": "PLA Lecture 30",
-            "parent": "cKth2IpVeYpciekExkLcS72sNHHRJVOO",
+            "parent": "C3DWIbwqygVvui4MIetRdqKqNZzwhLtc",
             "order": 0
         },
         {
-            "id": "x6BWdZodnl5l1fElPHZzZzyNNhF8oDx9",
+            "id": "jmK3b6PhHk5eCFAAlg5r7CR8BZbEI3C4",
             "location": "pages/week-11/pla-lecture-31/index.html",
             "title": "PLA Lecture 31",
-            "parent": "cKth2IpVeYpciekExkLcS72sNHHRJVOO",
+            "parent": "C3DWIbwqygVvui4MIetRdqKqNZzwhLtc",
             "order": 1
         },
         {
-            "id": "fHWPkBVNDFtXf1OtQXooap9D0kr8M4Zk",
+            "id": "Lagq9k0j5dJqNxUIwiqTsBXsxCLrWFxu",
             "location": "pages/week-11/pla-lecture-32/index.html",
             "title": "PLA Lecture 32",
-            "parent": "cKth2IpVeYpciekExkLcS72sNHHRJVOO",
+            "parent": "C3DWIbwqygVvui4MIetRdqKqNZzwhLtc",
             "order": 2
         },
         {
-            "id": "doRkyIB0qR8E8MxAMEKkHbbrG6ZyzO4D",
+            "id": "X56ZSwK3OZGGhsnEdyffGveKCKOCbuNL",
             "location": "pages/week-12/index.html",
             "title": "Week 12",
             "parent": null,
             "order": 12
         },
         {
-            "id": "4DGfVZ2Ih5ciNMroQXDH9H4897gAqq07",
+            "id": "tNIwro6GSnlTZSUmqsaWBYtXea5M2L4n",
             "location": "pages/pla-lecture-33/index.html",
             "title": "PLA Lecture 33",
-            "parent": "doRkyIB0qR8E8MxAMEKkHbbrG6ZyzO4D",
+            "parent": "X56ZSwK3OZGGhsnEdyffGveKCKOCbuNL",
             "order": 0
         },
         {
-            "id": "2GqT3n1eHCsUalDv6YbS3C0lcqvMlsoB",
+            "id": "SkbZkdhnBYcFtLmnMKmnmSlnDBkw74zF",
             "location": "pages/pla-lecture-34/index.html",
             "title": "PLA Lecture 34",
-            "parent": "doRkyIB0qR8E8MxAMEKkHbbrG6ZyzO4D",
+            "parent": "X56ZSwK3OZGGhsnEdyffGveKCKOCbuNL",
             "order": 1
         },
         {
-            "id": "c4xZ9EpJxVqwONyTVlJoZTTZOhLZu2xs",
+            "id": "6I3TfmbE7HPNgXDT7SfY8yoBnkIve4Y7",
             "location": "pages/pla-lecture-35/index.html",
             "title": "PLA Lecture 35",
-            "parent": "doRkyIB0qR8E8MxAMEKkHbbrG6ZyzO4D",
+            "parent": "X56ZSwK3OZGGhsnEdyffGveKCKOCbuNL",
             "order": 2
         },
         {
-            "id": "8nrAGJa48cEBCTaFCfmtSGuGVGWoBdTO",
+            "id": "hdctoYhf7RcIeCBnWCaCtWHHLB97ikoL",
             "location": "pages/week-13/index.html",
             "title": "Week 13",
             "parent": null,
             "order": 13
         },
         {
-            "id": "z8elPLPOedcGHqbtBnk93S9nGjXjoSlh",
+            "id": "2iTu7aKrkXnt00jsVC2tqw6GHblFoHR4",
             "location": "pages/pla-lecture-36/index.html",
             "title": "PLA Lecture 36",
-            "parent": "8nrAGJa48cEBCTaFCfmtSGuGVGWoBdTO",
+            "parent": "hdctoYhf7RcIeCBnWCaCtWHHLB97ikoL",
             "order": 0
         },
         {
-            "id": "hs16ZnOazrYqdqmrBLGY38pZlo86BWRq",
+            "id": "8xK5BvFAIakGKMwDFEOwwpX7VVYYkzdv",
             "location": "pages/pla-lecture-37/index.html",
             "title": "PLA Lecture 37",
-            "parent": "8nrAGJa48cEBCTaFCfmtSGuGVGWoBdTO",
+            "parent": "hdctoYhf7RcIeCBnWCaCtWHHLB97ikoL",
             "order": 1
         },
         {
-            "id": "4NYgyzOnqIUmSdfOEP9zYz3RDMwxdP1J",
+            "id": "KlxijF9UEMAZhbDpQW3ioS4WVwvo9dnt",
             "location": "pages/pla-lecture-38/index.html",
             "title": "PLA Lecture 38",
-            "parent": "8nrAGJa48cEBCTaFCfmtSGuGVGWoBdTO",
+            "parent": "hdctoYhf7RcIeCBnWCaCtWHHLB97ikoL",
             "order": 2
         },
         {
-            "id": "HJLDwNd8Aur2uOIUBk31by405EEj8ogv",
+            "id": "puUynB8O32tawEeOcdk4QScVF4o8uL7N",
             "location": "pages/week-14/index.html",
             "title": "Week 14",
             "parent": null,
             "order": 14
         },
         {
-            "id": "oWzsjnUwkjK4CVjB27vtV7HVYxwVxHrt",
+            "id": "fw7bSZxUajTV5Qko42dlzVlrT9Ak86LJ",
             "location": "pages/week-14/pla-lecture-39/index.html",
             "title": "PLA Lecture 39",
-            "parent": "HJLDwNd8Aur2uOIUBk31by405EEj8ogv",
+            "parent": "puUynB8O32tawEeOcdk4QScVF4o8uL7N",
             "order": 0
         },
         {
-            "id": "5Hk5UtpuDFzZCI0Cg3JdfUvuLipPVhvL",
+            "id": "HKqTpJA4SnH6pp4c1nbOuf6UP8hixUVY",
             "location": "pages/week-14/pla-lecture-40/index.html",
             "title": "PLA Lecture 40",
-            "parent": "HJLDwNd8Aur2uOIUBk31by405EEj8ogv",
+            "parent": "puUynB8O32tawEeOcdk4QScVF4o8uL7N",
             "order": 1
         },
         {
-            "id": "3uT2b1Jyuxo5hpKaWPiUgWEbblvWuIIy",
+            "id": "xNFzLQLfYaBIUCRQZMCbdPI48dW1DGzR",
             "location": "pages/week-14/pla-lecture-41/index.html",
             "title": "PLA Lecture 41",
-            "parent": "HJLDwNd8Aur2uOIUBk31by405EEj8ogv",
+            "parent": "puUynB8O32tawEeOcdk4QScVF4o8uL7N",
             "order": 2
         },
         {
-            "id": "uCshmuilzecRtIMDSQ7PsUVzRlXqlHsN",
+            "id": "6pO3Rmk5qI198iBOgr9RkBvCUnRWQo9O",
             "location": "pages/week-15/index.html",
             "title": "Week 15",
             "parent": null,
             "order": 15
         },
         {
-            "id": "ty1QNKdEq9zZSpjhcbQOtmXmCgKmvjBi",
+            "id": "AgDHDUhfxxcpASNKI5vUw6Dhxi5lhYeE",
             "location": "pages/week-15/pla-lecture-42/index.html",
             "title": "PLA Lecture 42",
-            "parent": "uCshmuilzecRtIMDSQ7PsUVzRlXqlHsN",
+            "parent": "6pO3Rmk5qI198iBOgr9RkBvCUnRWQo9O",
             "order": 0
         },
         {
-            "id": "Ttwrc0TPFre3tPxlXA4M3nlh2Yl1Zm92",
+            "id": "XpRNrH01hRM07XR9iDCVzCSD8qToB2Lz",
             "location": "pages/week-15/pla-lecture-43/index.html",
             "title": "PLA Lecture 43",
-            "parent": "uCshmuilzecRtIMDSQ7PsUVzRlXqlHsN",
+            "parent": "6pO3Rmk5qI198iBOgr9RkBvCUnRWQo9O",
             "order": 1
         },
         {
-            "id": "8lylwL2AFWX4HX6L656qBwiXptDEW0GP",
+            "id": "z1fU3HogQVV0ng2Vt0ZxVmMSG8ijH69u",
             "location": "pages/week-15/pla-lecture-44/index.html",
             "title": "PLA Lecture 44",
-            "parent": "uCshmuilzecRtIMDSQ7PsUVzRlXqlHsN",
+            "parent": "6pO3Rmk5qI198iBOgr9RkBvCUnRWQo9O",
             "order": 2
         }
     ]
