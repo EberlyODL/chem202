@@ -11,6 +11,14 @@
     {
       "pattern": "&quot;",
       "replacement": "\""
+    },
+    {
+      "pattern": "(\\$\\$(?:(?!\\$\\$)[\\s\\S])*?)(<\/?em>)([\\s\\S]*?\\$\\$)",
+      "replacement": "$1_$3"
+    },
+    {
+      "pattern": "(\\$\\$)([^\\$\\$]*)(\\$\\$)",
+      "replacement": "<lrn-math>$2</lrn-math>"
     }
   ]
 }
