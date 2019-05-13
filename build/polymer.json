@@ -1,6 +1,11 @@
 {
   "entrypoint": "dist/dev.html",
+  "fragments": [],
+  "sources": [
+    "dist/dev.html"
+  ],
   "extraDependencies": [
+    "bower_components/webcomponentsjs/*.js",
     "manifest.json",
     "node_modules/@lrnwebcomponents/*/*.js",
     "node_modules/@lrnwebcomponents/*/lib/*",
@@ -9,11 +14,13 @@
     "!node_modules/@webcomponents/webcomponentsjs/gulpfile.js",
     "node_modules/@webcomponents/webcomponentsjs/bundles/*.js"
   ],
-  "sources": [],
   "builds": [
     {
       "name": "es6",
-      "browserCapabilities": ["es2015", "modules"],
+      "browserCapabilities": [
+        "es2015",
+        "modules"
+      ],
       "js": {
         "minify": true
       },
@@ -43,9 +50,12 @@
       "addServiceWorker": false
     }
   ],
-  "moduleResolution": "node",
-  "npm": true,
   "lint": {
-    "rules": ["polymer-3"]
-  }
+    "rules": [
+      "polymer-3"
+    ]
+  },
+  "npm": true,
+  "componentDir": "node_modules/",
+  "moduleResolution": "node"
 }
