@@ -1,7 +1,7 @@
 {
-    "name": "{{ title }}",
-    "short_name": "{{ short }}",
-    "description": "{{ description }}",
+    "name": "HAXcms",
+    "short_name": "haxcms",
+    "description": "Microsite manager for your universe!",
     "icons": [
         {
             "src": "assets\/android-icon-36x36.png",
@@ -46,9 +46,8 @@
             "density": "4.0"
         }
     ],
-    "scope": "{{ basePath }}",
-    "start_url": "{{ basePath }}",
+    "start_url": "/",
     "display": "standalone",
-    "theme_color": "{{ hexCode }}",
-    "background_color": "{{ hexCode }}"
+    "theme_color": "#3f51b5",
+    "background_color": "#3f51b5"
 }

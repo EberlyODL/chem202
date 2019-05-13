@@ -3,7 +3,8 @@
   "extraDependencies": [
     "manifest.json",
     "node_modules/@lrnwebcomponents/*/*.js",
-    "node_modules/@lrnwebcomponents/*/lib/*",
+    "node_modules/@lrnwebcomponents/*/lib/**",
+    "!node_modules/@lrnwebcomponents/*/*.story.js",
     "!node_modules/@lrnwebcomponents/*/*.story.js",
     "node_modules/@webcomponents/webcomponentsjs/*.js",
     "!node_modules/@webcomponents/webcomponentsjs/gulpfile.js",
