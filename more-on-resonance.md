@@ -38,6 +38,6 @@ Ugh, now what?! Go back to the data. The bond angles are about 120 degrees. This
 
 So, why is this system an exception to several of the above mentioned theories? The answer is _resonance!_ When electrons are delocalized, they are lower in energy, and the molecule is more stable. In order for electrons to be delocalized via resonance, they must be in a p orbital. Remember the four patterns of resonance? Each of those patterns involves pi electrons. An atom or molecule wants to reach the lowest energy state, so it will adopt the geometry and hybridization to achieve it.
 
-The take home message: be on the lookout for those 4 patterns of resonance! If electrons on an atom are delocalized (involved in resonance), they will be in a p orbital. That means the atom must be $$sp^2&& or sp hybridized.
+The take home message: be on the lookout for those 4 patterns of resonance! If electrons on an atom are delocalized (involved in resonance), they will be in a p orbital. That means the atom must be $$sp^2$$ or sp hybridized.
 
 
