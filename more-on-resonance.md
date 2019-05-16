@@ -5,7 +5,7 @@ As we know, resonance is the delocalization of electrons. Specifically, the delo
 You should be able to draw resonance contributors for a variety of organic compounds. We will now see that resonance contributors are not all created equal.
 
 
-[ciscode|rev=1|tool=elmsmedia|item=3472|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+[ciscode|rev=1|tool=elmsmedia|item=3472|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 
 When two or more resonance structures exist, then it is necessary to evaluate their relative contribution to the hybrid. When ranking resonance contributors, consider the following **in order**:
@@ -36,7 +36,7 @@ What if we hybridize the orbitals? That nitrogen atom has 4 domains, so if we hy
 
 Ugh, now what?! Go back to the data. The bond angles are about 120 degrees. This corresponds to a trigonal planar geometry which results from $$sp^2$$ hybridization (mixing of the 2s and two 2p orbitals). Perhaps the nitrogen atom contributes $$sp^2$$ orbitals to form its three bonds. What happened to the remaining p orbital that wasn't hybridized? It's still there! That orbital holds the lone pair.
 
-So, why is this system an exception to several of the above mentioned theories? The answer is _resonance!_ When electrons are delocalized, they are lower in energy, and the molecule is more stable. In order for electrons to be delocalized via resonance, they must be in a p orbital. Remember the four patterns of resonance? Each of those patterns involves pi electrons. An atom or molecule wants to reach the lowest energy state, so it will adopt the geometry and hybridization to achieve it. 
+So, why is this system an exception to several of the above mentioned theories? The answer is _resonance!_ When electrons are delocalized, they are lower in energy, and the molecule is more stable. In order for electrons to be delocalized via resonance, they must be in a p orbital. Remember the four patterns of resonance? Each of those patterns involves pi electrons. An atom or molecule wants to reach the lowest energy state, so it will adopt the geometry and hybridization to achieve it.
 
 The take home message: be on the lookout for those 4 patterns of resonance! If electrons on an atom are delocalized (involved in resonance), they will be in a p orbital. That means the atom must be $$sp^2&& or sp hybridized.
 
