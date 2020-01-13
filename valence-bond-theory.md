@@ -20,7 +20,7 @@ The plot on the right in Figure 2 should look familiar, as we saw one like it in
 
 
 
-We can divide covalent bonds into two categories: sigma (σ) bonds and pi (π) bonds. Sigma bonds form from the head-on overlap of a pair of orbitals. In other words, there is only one region of overlap in a sigma bond. A couple of examples are shown in Figure 3. We already saw the example of two s orbitals overlapping in $$H_2$$, but you could also imagine an s orbital overlapping with a p orbital (pictured as H and F as in b) or a pair of p orbitals overlapping in a head-to-head arrangement (pictured as Cl and Cl in c). We’ll soon see that the orbital overlap in H-F and Cl-Cl is a bit more complicated than we’re suggesting here, but this should still give you a good idea of what it means to be a sigma bond. Another key point is that the electron density in a sigma bond is symmetric about the internuclear axis. In other words, if you look down along a straight line connecting the nuclei in these examples, you’ll see a symmetric distribution of electron density (i.e., it would look like a circle if you viewed it from the side). This symmetry allows sigma bonds to rotate without interfering with orbital overlap. 
+We can divide covalent bonds into two categories: sigma (σ) bonds and pi (π) bonds. Sigma bonds form from the head-on overlap of a pair of orbitals. In other words, there is only one region of overlap in a sigma bond. A couple of examples are shown in Figure 3. We already saw the example of two s orbitals overlapping in $$H_2$$, but you could also imagine an s orbital overlapping with a p orbital (pictured as H and F as in b) or a pair of p orbitals overlapping in a head-to-head arrangement (pictured as Cl and Cl in c). We’ll soon see that the orbital overlap in H-F and Cl-Cl is a bit more complicated than we’re suggesting here, but this should still give you a good idea of what it means to be a sigma bond. Another key point is that the electron density in a sigma bond is symmetric about the internuclear axis. In other words, if you look down along a straight line connecting the nuclei in these examples, you’ll see a symmetric distribution of electron density (i.e., it would look like a circle if you viewed it from the side). This symmetry allows sigma bonds to rotate without interfering with orbital overlap.
 
 [ciscode|rev=1|tool=elmsmedia|item=3518|entity_type=node|render=display_mode|display_mode=image]
 
@@ -33,4 +33,4 @@ You’ll also notice that in the figure we show p orbitals as being shaded with 
 
 [ciscode|rev=1|tool=elmsmedia|item=3504|entity_type=node|render=display_mode|display_mode=mediavideo]
 
-## You've reached the end of the second foundation.  [Return to Canvas to practice!](http://canvas.psu.edu)
+
