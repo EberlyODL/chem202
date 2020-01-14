@@ -1,4 +1,4 @@
-# Pre-lecture Assignment 3
+# Pre-lecture Reading 3
 
 
 # Resonance
@@ -21,7 +21,5 @@ There will be resonance when:
 > 4) there are alternating double-single bonds in a closed ring (i.e. benzene)
 
 [ciscode|rev=1|tool=elmsmedia|item=3476|entity_type=node|render=display_mode|display_mode=mediavideo]
-
-### Head back to Canvas for the question set!
 
 ### [Extra Resonance Practice](https://media.ed.science.psu.edu/sites/media/ed/files/documents/additional_resonance_practicef17.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/additional_resonance_practicef17_key.pdf))
